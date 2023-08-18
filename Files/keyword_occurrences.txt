@@ -1,0 +1,3343 @@
+'cyber': 85 occurrences
+'innovation': 84 occurrences
+'acquisition': 66 occurrences
+'cybersecurity': 64 occurrences
+'toc': 55 occurrences
+'intelligence': 51 occurrences
+'theory of constraints': 51 occurrences
+'tesseract': 50 occurrences
+'intelligence analysis': 49 occurrences
+'risk': 46 occurrences
+'python data science': 41 occurrences
+'training': 39 occurrences
+'mbse': 37 occurrences
+'digital engineering': 36 occurrences
+'digital': 34 occurrences
+'afit': 33 occurrences
+'cyber security': 33 occurrences
+'risk management': 32 occurrences
+'crows': 32 occurrences
+'sysml': 31 occurrences
+'sse': 29 occurrences
+'configuration management': 28 occurrences
+'logistics': 27 occurrences
+'leadership': 27 occurrences
+'weapon system': 27 occurrences
+'chief engineer course': 27 occurrences
+'intelligence community': 27 occurrences
+'program protection': 26 occurrences
+'mil-hdbk-61': 26 occurrences
+'mil-hdbk-61b': 26 occurrences
+'sae eia-649': 26 occurrences
+'eia-649': 26 occurrences
+'eia-649c': 26 occurrences
+'agile': 25 occurrences
+'dau': 25 occurrences
+'system security engineering': 25 occurrences
+'cyber resiliency': 25 occurrences
+'usaf': 25 occurrences
+'cyber hardening': 25 occurrences
+'wbs': 25 occurrences
+'instructional design': 25 occurrences
+'geia-hb-649': 25 occurrences
+'geia-hb-649a': 25 occurrences
+'sae eia-649c': 24 occurrences
+'cyber survivability': 24 occurrences
+'daf': 24 occurrences
+'models': 23 occurrences
+'ssecg': 23 occurrences
+'space system': 23 occurrences
+'talent development': 22 occurrences
+'fireside chat': 22 occurrences
+'21a': 22 occurrences
+'software': 21 occurrences
+'adobe': 21 occurrences
+'21a cfm': 21 occurrences
+'security': 20 occurrences
+'management': 20 occurrences
+'system security engineering cyber guidebook': 20 occurrences
+'analytic tradecraft': 20 occurrences
+'adobe creative cloud': 20 occurrences
+'risk analysis': 19 occurrences
+'systems engineering': 19 occurrences
+'avolve': 18 occurrences
+'mosa': 18 occurrences
+'communication': 18 occurrences
+'ic': 18 occurrences
+'how-to': 17 occurrences
+'education': 17 occurrences
+'systems modeling language': 17 occurrences
+'facilitator cadre': 17 occurrences
+'engineering': 16 occurrences
+'command': 16 occurrences
+'lab202': 16 occurrences
+'science and technology': 16 occurrences
+'hacking': 15 occurrences
+'sbir': 15 occurrences
+'uncertainty': 15 occurrences
+'339 rcs': 15 occurrences
+'afrl': 15 occurrences
+'how to': 15 occurrences
+'creativity': 15 occurrences
+'analysis': 15 occurrences
+'s&t': 15 occurrences
+'training ': 15 occurrences
+'asot': 15 occurrences
+'afrs': 14 occurrences
+'ssc': 14 occurrences
+'cfetp': 14 occurrences
+'lab 202': 14 occurrences
+'#logrsummit': 14 occurrences
+'analytic standards': 14 occurrences
+'tradecraft standards': 14 occurrences
+'tradecraft': 14 occurrences
+'threat': 13 occurrences
+'recruiting': 13 occurrences
+'technology': 13 occurrences
+'acquisitions': 13 occurrences
+'change': 13 occurrences
+'contracting': 13 occurrences
+'podcast': 13 occurrences
+'transformation': 13 occurrences
+'squadron command': 13 occurrences
+'21a cfm fireside chat': 13 occurrences
+'research lab': 13 occurrences
+'sys482': 13 occurrences
+'afwerx': 12 occurrences
+'learning': 12 occurrences
+'modeling': 12 occurrences
+'russia': 12 occurrences
+'cloud': 12 occurrences
+'elearning': 12 occurrences
+'team building': 12 occurrences
+'ewi': 12 occurrences
+'atlasx': 12 occurrences
+'digital exec': 12 occurrences
+'digital fluency': 12 occurrences
+'21a cfetp': 12 occurrences
+'sq/cc course': 12 occurrences
+'opportunity': 11 occurrences
+'360 rcg': 11 occurrences
+'cyber warfare': 11 occurrences
+'dod': 11 occurrences
+'operations': 11 occurrences
+'model': 11 occurrences
+'program management': 11 occurrences
+'sustainment': 11 occurrences
+'recruiter': 11 occurrences
+'opportunity management': 11 occurrences
+'culture': 11 occurrences
+'digital guardian': 11 occurrences
+'cfm': 11 occurrences
+'module 1': 11 occurrences
+'betterup': 11 occurrences
+'product support': 11 occurrences
+'warfare': 10 occurrences
+'space': 10 occurrences
+'design': 10 occurrences
+'standards': 10 occurrences
+'risk identification': 10 occurrences
+'coaching': 10 occurrences
+'fireside': 10 occurrences
+'21xtra': 10 occurrences
+'high-tech foundation': 10 occurrences
+'begin': 10 occurrences
+'vulnerabilities': 9 occurrences
+'requirements': 9 occurrences
+'kessel run': 9 occurrences
+'development': 9 occurrences
+'air force': 9 occurrences
+'339': 9 occurrences
+'project management': 9 occurrences
+'software development': 9 occurrences
+'pol': 9 occurrences
+'afpet': 9 occurrences
+'teaching': 9 occurrences
+'digital transformation': 9 occurrences
+'cfm fireside chat': 9 occurrences
+'sq/cc': 9 occurrences
+'toc 2022': 9 occurrences
+'aircraft maintenance leadership summit': 9 occurrences
+'ase capstone': 9 occurrences
+'malware': 8 occurrences
+'se': 8 occurrences
+'strategy': 8 occurrences
+'hackers': 8 occurrences
+'resiliency': 8 occurrences
+'supply chain': 8 occurrences
+'internet': 8 occurrences
+'gamification': 8 occurrences
+'software engineering': 8 occurrences
+'force development': 8 occurrences
+'waterfall': 8 occurrences
+'lcbp': 8 occurrences
+'digital acquisition': 8 occurrences
+'ide': 8 occurrences
+'sde': 8 occurrences
+'goodfellow itu': 8 occurrences
+'learning path': 7 occurrences
+'risk attitude': 7 occurrences
+'objective': 7 occurrences
+'crime': 7 occurrences
+'easy': 7 occurrences
+'cyber command': 7 occurrences
+'cyberspace': 7 occurrences
+'services': 7 occurrences
+'online learning': 7 occurrences
+'conflict': 7 occurrences
+'china': 7 occurrences
+'artificial intelligence': 7 occurrences
+'de': 7 occurrences
+'project': 7 occurrences
+'ethics': 7 occurrences
+'law': 7 occurrences
+'gsa': 7 occurrences
+'open architecture': 7 occurrences
+'agile manifesto': 7 occurrences
+'goals': 7 occurrences
+'b2b': 7 occurrences
+'learning & development': 7 occurrences
+'facilitation': 7 occurrences
+'risk tracking': 7 occurrences
+'21a ocm': 7 occurrences
+'air force learning professionals': 7 occurrences
+'communities of practice': 7 occurrences
+'agile principles': 7 occurrences
+'speed': 7 occurrences
+'21a force development': 7 occurrences
+'feedback': 7 occurrences
+'development team': 7 occurrences
+'career field health': 7 occurrences
+'test & evaluation': 7 occurrences
+'data': 6 occurrences
+'future': 6 occurrences
+'csce525': 6 occurrences
+'tutorial': 6 occurrences
+'services acquisition': 6 occurrences
+'csce': 6 occurrences
+'devsecops': 6 occurrences
+'politics': 6 occurrences
+'critical thinking': 6 occurrences
+'attack': 6 occurrences
+'research': 6 occurrences
+'coding': 6 occurrences
+'game': 6 occurrences
+'programming': 6 occurrences
+'consequence': 6 occurrences
+'military': 6 occurrences
+'cost': 6 occurrences
+'hacker': 6 occurrences
+'classroom presentation': 6 occurrences
+'disa': 6 occurrences
+'architecture': 6 occurrences
+'ipo': 6 occurrences
+'internal risks': 6 occurrences
+'external risks': 6 occurrences
+'specific risks': 6 occurrences
+'risk management plan': 6 occurrences
+'air force institute of technology': 6 occurrences
+'ocm': 6 occurrences
+'afpc': 6 occurrences
+'moic': 6 occurrences
+'amoc': 6 occurrences
+'direct feedback': 6 occurrences
+'#21r': 6 occurrences
+'model-based systems engineering': 6 occurrences
+'21x': 6 occurrences
+'21x dt': 6 occurrences
+'21x dt outbrief': 6 occurrences
+'21a fireside chat': 6 occurrences
+'21a career field health': 6 occurrences
+'21a dt': 6 occurrences
+'career development brief': 6 occurrences
+'cost estimating': 6 occurrences
+'aflos': 6 occurrences
+'joint intelligence': 6 occurrences
+'intelligence tradecraft': 6 occurrences
+'dt': 6 occurrences
+'cameo': 6 occurrences
+'privacy': 5 occurrences
+'risk management ': 5 occurrences
+'cracking': 5 occurrences
+'simulation': 5 occurrences
+'cpi': 5 occurrences
+'deterrence': 5 occurrences
+'program': 5 occurrences
+'learn': 5 occurrences
+'production': 5 occurrences
+'scheduling': 5 occurrences
+'fleet': 5 occurrences
+'gmv': 5 occurrences
+'gov': 5 occurrences
+'iot': 5 occurrences
+'csce 525': 5 occurrences
+'smart': 5 occurrences
+'learning analysis': 5 occurrences
+'population risks': 5 occurrences
+'lms': 5 occurrences
+'learning design': 5 occurrences
+'ussf': 5 occurrences
+'maintenance': 5 occurrences
+'professional development': 5 occurrences
+'risk reviews': 5 occurrences
+'space force': 5 occurrences
+'positive risk': 5 occurrences
+'goldratt': 5 occurrences
+'software development life cycle': 5 occurrences
+'sdlc': 5 occurrences
+'pathfinder': 5 occurrences
+'education with industry': 5 occurrences
+'delta air lines': 5 occurrences
+'academics': 5 occurrences
+'21a course matrix': 5 occurrences
+'12 principles': 5 occurrences
+'initial training': 5 occurrences
+'refresher training': 5 occurrences
+'aviation': 5 occurrences
+'contracts': 5 occurrences
+'lmap': 5 occurrences
+'facilitator cadre ': 5 occurrences
+'financial': 5 occurrences
+'open standards': 5 occurrences
+'tpoc': 5 occurrences
+'icd': 5 occurrences
+'odni': 5 occurrences
+'writing for intelligence': 5 occurrences
+'aad': 5 occurrences
+'rainbow table': 4 occurrences
+'aircraft maintenance': 4 occurrences
+'quantum': 4 occurrences
+'cyber defense': 4 occurrences
+'cipher': 4 occurrences
+'kubernetes': 4 occurrences
+'communications': 4 occurrences
+'multi-domain': 4 occurrences
+'ai': 4 occurrences
+'linguist': 4 occurrences
+'dlab': 4 occurrences
+'password': 4 occurrences
+'525': 4 occurrences
+'air': 4 occurrences
+'plm': 4 occurrences
+'lifecycle': 4 occurrences
+'social engineering': 4 occurrences
+'imgt687': 4 occurrences
+'joint': 4 occurrences
+'wip': 4 occurrences
+'capacity': 4 occurrences
+'critical chain': 4 occurrences
+'job shop': 4 occurrences
+'work in process': 4 occurrences
+'work in progress': 4 occurrences
+'business': 4 occurrences
+'ics': 4 occurrences
+'howto': 4 occurrences
+'threats': 4 occurrences
+'air university': 4 occurrences
+'insider': 4 occurrences
+'hacktivist': 4 occurrences
+'school visit': 4 occurrences
+'nsa': 4 occurrences
+'requirement': 4 occurrences
+'user': 4 occurrences
+'fcw': 4 occurrences
+'federal 100 awards': 4 occurrences
+'dhs': 4 occurrences
+'coi': 4 occurrences
+'afventures': 4 occurrences
+'decision making': 4 occurrences
+'life cycle': 4 occurrences
+'digital twin': 4 occurrences
+'needs assessment': 4 occurrences
+'leadership development': 4 occurrences
+'egs': 4 occurrences
+'canopy': 4 occurrences
+'learning management': 4 occurrences
+'photoshop': 4 occurrences
+'interactive': 4 occurrences
+'quantitative': 4 occurrences
+' confidence': 4 occurrences
+'qualitative': 4 occurrences
+'process improvement': 4 occurrences
+'risk handling': 4 occurrences
+'marketing': 4 occurrences
+'constraint management': 4 occurrences
+'teams': 4 occurrences
+'objectives': 4 occurrences
+'presentation': 4 occurrences
+'venture capital': 4 occurrences
+'psychological safety': 4 occurrences
+'slingshot': 4 occurrences
+'constraint': 4 occurrences
+'case study': 4 occurrences
+'#digitalexec': 4 occurrences
+'resource management': 4 occurrences
+'21ax cfetp': 4 occurrences
+'occupational competency model': 4 occurrences
+'competency based training': 4 occurrences
+'21a squadron command': 4 occurrences
+'innovate': 4 occurrences
+'wksp 0732': 4 occurrences
+'guidance': 4 occurrences
+'relieved commanders': 4 occurrences
+'21r': 4 occurrences
+'#speed': 4 occurrences
+'learning checks': 4 occurrences
+'a4l': 4 occurrences
+'21x summer dt outbrief': 4 occurrences
+'dt outbrief': 4 occurrences
+'21a promotions': 4 occurrences
+'21a summer dt': 4 occurrences
+'squadron command process': 4 occurrences
+'cdb': 4 occurrences
+'depot': 4 occurrences
+'joint operations': 4 occurrences
+'joint doctrine': 4 occurrences
+'intelligence doctrine': 4 occurrences
+'intelligence community directive': 4 occurrences
+'cdasa': 4 occurrences
+'blbp': 4 occurrences
+'oleet': 4 occurrences
+'aleet': 4 occurrences
+'20c0': 4 occurrences
+'dt process': 4 occurrences
+'wksp0732': 4 occurrences
+'de vectoring': 4 occurrences
+'structured analytic techniques': 4 occurrences
+'analytics': 4 occurrences
+'sustainment academics': 4 occurrences
+'squadron command vectoring': 4 occurrences
+'captions': 3 occurrences
+'facebook': 3 occurrences
+'script': 3 occurrences
+'afriss': 3 occurrences
+'cyber hygiene': 3 occurrences
+'ddos': 3 occurrences
+'dos': 3 occurrences
+'hacktivists': 3 occurrences
+'ceh': 3 occurrences
+'help': 3 occurrences
+'lead': 3 occurrences
+'mission assurance': 3 occurrences
+'cryptography': 3 occurrences
+'weapons': 3 occurrences
+'#egs': 3 occurrences
+'google cloud': 3 occurrences
+'gcp': 3 occurrences
+'personnel': 3 occurrences
+'ukraine': 3 occurrences
+'careers': 3 occurrences
+'opportunities': 3 occurrences
+'command and control': 3 occurrences
+'apt': 3 occurrences
+'defense': 3 occurrences
+'apple': 3 occurrences
+'intel': 3 occurrences
+'business news': 3 occurrences
+'product': 3 occurrences
+'agile software': 3 occurrences
+'devops': 3 occurrences
+'upload': 3 occurrences
+'asd': 3 occurrences
+'geoint': 3 occurrences
+'acq': 3 occurrences
+'acquisition 100': 3 occurrences
+'cbt': 3 occurrences
+'human': 3 occurrences
+'java': 3 occurrences
+'policy': 3 occurrences
+'department of defense': 3 occurrences
+'instagram': 3 occurrences
+'asvab': 3 occurrences
+'model-based': 3 occurrences
+'systems': 3 occurrences
+'iran': 3 occurrences
+'jack head': 3 occurrences
+'integration': 3 occurrences
+'3d printing': 3 occurrences
+'additive manufacturing': 3 occurrences
+'microservices': 3 occurrences
+'open': 3 occurrences
+'diy': 3 occurrences
+'wikihow': 3 occurrences
+'how do i': 3 occurrences
+'how to articles': 3 occurrences
+'how to instructions': 3 occurrences
+'tips': 3 occurrences
+'wiki': 3 occurrences
+'capabilities': 3 occurrences
+'motivation': 3 occurrences
+'sales': 3 occurrences
+'nmci': 3 occurrences
+'future combat systems': 3 occurrences
+'geospatial intelligence': 3 occurrences
+'ngen navy': 3 occurrences
+'obama': 3 occurrences
+'system': 3 occurrences
+'#braincamp': 3 occurrences
+'computing': 3 occurrences
+'homeland security': 3 occurrences
+'telework': 3 occurrences
+'white house': 3 occurrences
+'history': 3 occurrences
+'cybercrime': 3 occurrences
+'small business': 3 occurrences
+'planning': 3 occurrences
+'loa': 3 occurrences
+'data engineering': 3 occurrences
+'data science': 3 occurrences
+'testing and evaluation': 3 occurrences
+'user experience design': 3 occurrences
+'product management': 3 occurrences
+'report': 3 occurrences
+'schedule': 3 occurrences
+'processing': 3 occurrences
+'surveillance': 3 occurrences
+'satellites': 3 occurrences
+'sttr': 3 occurrences
+'scripting': 3 occurrences
+'scrm': 3 occurrences
+'ux': 3 occurrences
+'learning objectives': 3 occurrences
+'job aid': 3 occurrences
+'risk statement': 3 occurrences
+'trainer': 3 occurrences
+'value of information': 3 occurrences
+'learning management system': 3 occurrences
+'public speaking': 3 occurrences
+'cross mission ground': 3 occurrences
+'knowledge management': 3 occurrences
+'job analysis': 3 occurrences
+'instructional systems': 3 occurrences
+'continuous learning': 3 occurrences
+'learning theories': 3 occurrences
+'learning management systems': 3 occurrences
+'supply': 3 occurrences
+'learning model': 3 occurrences
+'addie': 3 occurrences
+'addie model': 3 occurrences
+'emotional intelligence': 3 occurrences
+'csaf': 3 occurrences
+' monte carlo': 3 occurrences
+'airmen': 3 occurrences
+'monte carlo': 3 occurrences
+'risk response strategies': 3 occurrences
+'#howtoavolve': 3 occurrences
+'group dynamics': 3 occurrences
+'group think': 3 occurrences
+'groupthink': 3 occurrences
+'groups': 3 occurrences
+'instructor': 3 occurrences
+'lead generation': 3 occurrences
+'prequalification': 3 occurrences
+'kitting': 3 occurrences
+'improvement': 3 occurrences
+'kronos': 3 occurrences
+'promotion analysis': 3 occurrences
+'fdt': 3 occurrences
+'waterfall methodology': 3 occurrences
+' 12 principles': 3 occurrences
+'competencies': 3 occurrences
+'21a mypers': 3 occurrences
+'ammos': 3 occurrences
+'immersion': 3 occurrences
+'questions': 3 occurrences
+'bias': 3 occurrences
+'command prep': 3 occurrences
+'21x squadron command': 3 occurrences
+'21x sq/cc course': 3 occurrences
+'0732': 3 occurrences
+'workshop 0732': 3 occurrences
+'life cycle risk management': 3 occurrences
+'command removal': 3 occurrences
+'fireside chat slides': 3 occurrences
+'22c': 3 occurrences
+'21m': 3 occurrences
+'transition': 3 occurrences
+'#lcbpalumni': 3 occurrences
+'lesson 1': 3 occurrences
+'reading assignments': 3 occurrences
+'a4l coaching initiative': 3 occurrences
+'developmental education': 3 occurrences
+'logistics manpower allocation plan': 3 occurrences
+'21a fd': 3 occurrences
+'21a oat': 3 occurrences
+'open architectures': 3 occurrences
+'mosa enabling standards': 3 occurrences
+'twas': 3 occurrences
+'dod directive': 3 occurrences
+'intelligence production': 3 occurrences
+'sourcing': 3 occurrences
+'21a manning': 3 occurrences
+'21a assignment team': 3 occurrences
+'winter dt': 3 occurrences
+'special programs': 3 occurrences
+'deputy group command': 3 occurrences
+'hypothesis': 3 occurrences
+'intelligence communications': 3 occurrences
+'biases': 3 occurrences
+'style guides': 3 occurrences
+'aflcmc': 3 occurrences
+'decision analysis': 3 occurrences
+'o-5 promotion': 3 occurrences
+'consecutive overseas tours': 3 occurrences
+'time on station': 3 occurrences
+'adobe captivate': 3 occurrences
+'captivate': 3 occurrences
+'premiere pro': 3 occurrences
+'video editing': 3 occurrences
+'photo editing': 3 occurrences
+'audio editing': 3 occurrences
+'#lro': 3 occurrences
+'adobe indesign': 3 occurrences
+'adobe illustrator': 3 occurrences
+'closed captions': 2 occurrences
+'vehicle': 2 occurrences
+'cyber operations': 2 occurrences
+'hacks': 2 occurrences
+'consequence ': 2 occurrences
+'afriss-tf': 2 occurrences
+'air force recruiting service': 2 occurrences
+'recruiters': 2 occurrences
+'blockchain': 2 occurrences
+'glossary': 2 occurrences
+'passwords': 2 occurrences
+'ie': 2 occurrences
+'internet explorer': 2 occurrences
+'guide': 2 occurrences
+'how': 2 occurrences
+'to': 2 occurrences
+'mdt': 2 occurrences
+'cybercom': 2 occurrences
+'computers': 2 occurrences
+'cor': 2 occurrences
+'contracting officer representative': 2 occurrences
+'encoding': 2 occurrences
+'ai revolution': 2 occurrences
+'ai technologies': 2 occurrences
+'ai product development': 2 occurrences
+'ai impacts': 2 occurrences
+'system engineering': 2 occurrences
+'#canopy': 2 occurrences
+'#lunchesofwisdom': 2 occurrences
+'#smc': 2 occurrences
+'best practices': 2 occurrences
+'acquisition process': 2 occurrences
+'anti-tamper': 2 occurrences
+'software assurance': 2 occurrences
+'test and evaluation': 2 occurrences
+'tsn': 2 occurrences
+'rmf': 2 occurrences
+'introduction': 2 occurrences
+'ip': 2 occurrences
+'article': 2 occurrences
+'c2': 2 occurrences
+'denial of service': 2 occurrences
+'hack': 2 occurrences
+'espionage': 2 occurrences
+'cyber weapons': 2 occurrences
+'dark web': 2 occurrences
+'government': 2 occurrences
+'mac os x': 2 occurrences
+'mission mapping': 2 occurrences
+'weapon': 2 occurrences
+'deceive': 2 occurrences
+'degrade': 2 occurrences
+'kobayashi maru': 2 occurrences
+'bespin': 2 occurrences
+'enterprise': 2 occurrences
+'c': 2 occurrences
+'hacker mentality': 2 occurrences
+'exercises': 2 occurrences
+'practice': 2 occurrences
+'skills': 2 occurrences
+'manifesto': 2 occurrences
+'video': 2 occurrences
+'fun': 2 occurrences
+'loop': 2 occurrences
+'autonomy': 2 occurrences
+'python': 2 occurrences
+'live': 2 occurrences
+'map': 2 occurrences
+'rapid acquisition': 2 occurrences
+' risk attitude': 2 occurrences
+'ooda loop': 2 occurrences
+'news': 2 occurrences
+'readiness': 2 occurrences
+'barriers': 2 occurrences
+'tools': 2 occurrences
+'resources': 2 occurrences
+'stories': 2 occurrences
+'generation': 2 occurrences
+'army': 2 occurrences
+'cyber security careers': 2 occurrences
+'cyberwar': 2 occurrences
+'war': 2 occurrences
+'intellectual property': 2 occurrences
+'scrum': 2 occurrences
+'pm': 2 occurrences
+'service mesh': 2 occurrences
+'modular': 2 occurrences
+'interface': 2 occurrences
+'hardware': 2 occurrences
+'cybrary': 2 occurrences
+'noob': 2 occurrences
+'virtual': 2 occurrences
+'attacks': 2 occurrences
+'phishing': 2 occurrences
+'cyber crime': 2 occurrences
+'machine learning': 2 occurrences
+'far': 2 occurrences
+'federal acquisition regulation': 2 occurrences
+'c++': 2 occurrences
+'cpp': 2 occurrences
+'agile development': 2 occurrences
+'cac': 2 occurrences
+'engagement': 2 occurrences
+'aftv': 2 occurrences
+'knowledge': 2 occurrences
+'financial management': 2 occurrences
+'checklist': 2 occurrences
+'national security agency': 2 occurrences
+'russia election hacking': 2 occurrences
+'program manager': 2 occurrences
+'aircraft parts': 2 occurrences
+'cyberwarfare': 2 occurrences
+'performance': 2 occurrences
+'content': 2 occurrences
+'customer': 2 occurrences
+'technical': 2 occurrences
+'nsps': 2 occurrences
+'alliant': 2 occurrences
+'chief information officer': 2 occurrences
+'chief technology officer': 2 occurrences
+'cloud computing': 2 occurrences
+'conflicker': 2 occurrences
+'dhs eagle ii': 2 occurrences
+'dod cyber command': 2 occurrences
+'dod techipedia': 2 occurrences
+'e-verify': 2 occurrences
+'fcw daily': 2 occurrences
+'fcw insider': 2 occurrences
+'fcw.com': 2 occurrences
+'fdcc compliance': 2 occurrences
+'fed 100': 2 occurrences
+'fed 100 awards': 2 occurrences
+'fed 100 winners': 2 occurrences
+'federal 100': 2 occurrences
+'federal cio': 2 occurrences
+'federal computer': 2 occurrences
+'federal computer news': 2 occurrences
+'federal computer week': 2 occurrences
+'federal computer week magazine': 2 occurrences
+'federal computer weekly': 2 occurrences
+'federal executive': 2 occurrences
+'federal weekly': 2 occurrences
+'fisma': 2 occurrences
+'forge.mil': 2 occurrences
+'fose': 2 occurrences
+'government 2.0': 2 occurrences
+'government employment news': 2 occurrences
+'government executive': 2 occurrences
+'government technology news': 2 occurrences
+'gpo': 2 occurrences
+'grants.gov': 2 occurrences
+'intellipedia': 2 occurrences
+'john klossner': 2 occurrences
+'kelman': 2 occurrences
+'recovery.gov': 2 occurrences
+'registered traveler': 2 occurrences
+'rising star awards': 2 occurrences
+'sbinet': 2 occurrences
+'security clearance': 2 occurrences
+'virtualization': 2 occurrences
+'vivek kundra': 2 occurrences
+'cryptocurrency': 2 occurrences
+'doctrine': 2 occurrences
+'it': 2 occurrences
+'best practice': 2 occurrences
+'network': 2 occurrences
+' opportunity': 2 occurrences
+' future': 2 occurrences
+'model based systems engineering': 2 occurrences
+'references': 2 occurrences
+'scada': 2 occurrences
+'information': 2 occurrences
+'time management': 2 occurrences
+'learning paths': 2 occurrences
+'360  rcg': 2 occurrences
+'amazon': 2 occurrences
+'interface management': 2 occurrences
+'multi domain': 2 occurrences
+'multidomain': 2 occurrences
+'fuel': 2 occurrences
+'fuels': 2 occurrences
+'f-flight': 2 occurrences
+'who the hell?': 2 occurrences
+'air force petroleum office': 2 occurrences
+'scow': 2 occurrences
+'cloud, edge and fog computing': 2 occurrences
+'internet of things': 2 occurrences
+'force': 2 occurrences
+'meps': 2 occurrences
+'#agile': 2 occurrences
+'os': 2 occurrences
+'attack path analysis': 2 occurrences
+'functional thread analysis': 2 occurrences
+'processes': 2 occurrences
+'seng 593': 2 occurrences
+'awareness': 2 occurrences
+'vm': 2 occurrences
+'windows': 2 occurrences
+'process': 2 occurrences
+'supply chain risk management': 2 occurrences
+'reference': 2 occurrences
+'experience': 2 occurrences
+'weight': 2 occurrences
+'use': 2 occurrences
+'microlearning': 2 occurrences
+'virtual learning': 2 occurrences
+'measurement': 2 occurrences
+'online teaching': 2 occurrences
+'learning development': 2 occurrences
+'educational technology': 2 occurrences
+'resourcing': 2 occurrences
+'oa': 2 occurrences
+'mitre': 2 occurrences
+'task analysis': 2 occurrences
+'change management': 2 occurrences
+'virtual training': 2 occurrences
+'learning videos': 2 occurrences
+'risk strategy': 2 occurrences
+'risk statement ': 2 occurrences
+'content curation': 2 occurrences
+'informal learning': 2 occurrences
+'learning content management system': 2 occurrences
+'presentations': 2 occurrences
+'instructional strategies': 2 occurrences
+'ecxg': 2 occurrences
+'content management': 2 occurrences
+'needs analysis': 2 occurrences
+'technology integration': 2 occurrences
+'instructional technology': 2 occurrences
+'sam': 2 occurrences
+'presenting': 2 occurrences
+'ecx': 2 occurrences
+'assessment': 2 occurrences
+'evaluation': 2 occurrences
+'risk management strategy': 2 occurrences
+'information management': 2 occurrences
+'listening': 2 occurrences
+'creative cloud': 2 occurrences
+'videoconferencing': 2 occurrences
+'online training': 2 occurrences
+'talent management': 2 occurrences
+'immersive learning': 2 occurrences
+'nuclear': 2 occurrences
+'nscai': 2 occurrences
+'networking': 2 occurrences
+'lro': 2 occurrences
+'logistics readiness': 2 occurrences
+'benefits': 2 occurrences
+'airman': 2 occurrences
+'airman4life': 2 occurrences
+'resilliency': 2 occurrences
+'airmen4life': 2 occurrences
+'teamwork': 2 occurrences
+'confidence': 2 occurrences
+'stoplight chart': 2 occurrences
+'closed-captions': 2 occurrences
+'commercial': 2 occurrences
+'x-stem': 2 occurrences
+'x stem': 2 occurrences
+'applicant': 2 occurrences
+'threat risk ': 2 occurrences
+'gra': 2 occurrences
+'government reference architecture': 2 occurrences
+'facts': 2 occurrences
+'cybersecurity ': 2 occurrences
+'manufacturing': 2 occurrences
+'facilitating': 2 occurrences
+'adult learning': 2 occurrences
+'classroom': 2 occurrences
+'hpsp': 2 occurrences
+'flight chief': 2 occurrences
+'space is hard': 2 occurrences
+'general raymond': 2 occurrences
+'social media': 2 occurrences
+'b-52': 2 occurrences
+'reference architecture': 2 occurrences
+'impact': 2 occurrences
+'prequal': 2 occurrences
+' waterfall methodology': 2 occurrences
+'assignments': 2 occurrences
+'deployments': 2 occurrences
+'theory of constraints ': 2 occurrences
+'full kitting': 2 occurrences
+'aop': 2 occurrences
+'art of the possible': 2 occurrences
+'focus and finish': 2 occurrences
+'results': 2 occurrences
+'athena': 2 occurrences
+'torque': 2 occurrences
+'ursus': 2 occurrences
+'gtri': 2 occurrences
+'micap prime': 2 occurrences
+'21ax': 2 occurrences
+'ocm rubric': 2 occurrences
+'career field manager': 2 occurrences
+'force development team': 2 occurrences
+'aflp': 2 occurrences
+'learning professionals': 2 occurrences
+'soft skills': 2 occurrences
+' agile manifesto': 2 occurrences
+' software development': 2 occurrences
+'competency-based development': 2 occurrences
+'21a competencies': 2 occurrences
+'delta techops': 2 occurrences
+'industry best practice': 2 occurrences
+' engineering': 2 occurrences
+'toc ': 2 occurrences
+'cops': 2 occurrences
+'aircraft': 2 occurrences
+'bles': 2 occurrences
+'system management': 2 occurrences
+'no spoon': 2 occurrences
+'df': 2 occurrences
+'cui': 2 occurrences
+'opsec': 2 occurrences
+'preservation of material': 2 occurrences
+'invention': 2 occurrences
+'overview': 2 occurrences
+'innovation ': 2 occurrences
+'communication skills': 2 occurrences
+'commander prep': 2 occurrences
+'documentation': 2 occurrences
+'mcoc': 2 occurrences
+'mgrc': 2 occurrences
+'mxg': 2 occurrences
+'metrics': 2 occurrences
+'hsi': 2 occurrences
+'i2i': 2 occurrences
+'#ewi': 2 occurrences
+'nasa': 2 occurrences
+'ntc': 2 occurrences
+'psychology': 2 occurrences
+'structure': 2 occurrences
+'command removals': 2 occurrences
+'21x sq/cc': 2 occurrences
+'commander's course': 2 occurrences
+'class 22e': 2 occurrences
+'22d': 2 occurrences
+'efd': 2 occurrences
+'22e': 2 occurrences
+'technology transition': 2 occurrences
+'#lcbp': 2 occurrences
+'initial requirements': 2 occurrences
+'lesson 2': 2 occurrences
+'lesson 3': 2 occurrences
+'lesson 4': 2 occurrences
+'lesson 5': 2 occurrences
+'lesson 6': 2 occurrences
+'system security engineering guidebook': 2 occurrences
+'ready aircraft metric': 2 occurrences
+'ram': 2 occurrences
+'goldratt consulting': 2 occurrences
+'idrc': 2 occurrences
+'delta': 2 occurrences
+'force design mapping': 2 occurrences
+'strt outcomes': 2 occurrences
+'modular training': 2 occurrences
+'21x dt outbrief summer 2022': 2 occurrences
+'21x summer 2022 dt outbrief': 2 occurrences
+'21x promotion': 2 occurrences
+'21x ide': 2 occurrences
+'21x sde': 2 occurrences
+'21x development team': 2 occurrences
+'21x vectoring': 2 occurrences
+'21x command': 2 occurrences
+'21a summer dt 2022': 2 occurrences
+'statement of intent': 2 occurrences
+'21a promotion': 2 occurrences
+'21a promotion analysis': 2 occurrences
+'21a development team': 2 occurrences
+'21a contacts': 2 occurrences
+'21a outreach': 2 occurrences
+'21a fdt': 2 occurrences
+'21a cdb': 2 occurrences
+'oms': 2 occurrences
+'uci': 2 occurrences
+'#hold': 2 occurrences
+'mc': 2 occurrences
+'a4l coaching': 2 occurrences
+'ocm survey': 2 occurrences
+'modular open systems': 2 occurrences
+'battlespace next': 2 occurrences
+'serious games': 2 occurrences
+'program technology protection': 2 occurrences
+'nuclear weapons center': 2 occurrences
+'retention': 2 occurrences
+'counterintelligence': 2 occurrences
+'executive order': 2 occurrences
+'procurement': 2 occurrences
+'analytic worksheet': 2 occurrences
+'intelligence support': 2 occurrences
+'joint publication': 2 occurrences
+'analytic thinking': 2 occurrences
+'analytic products': 2 occurrences
+'intelligence collection': 2 occurrences
+'intelligence standards': 2 occurrences
+'ethical ai': 2 occurrences
+'aoa': 2 occurrences
+'analysis of alternatives': 2 occurrences
+' analysis': 2 occurrences
+' critical thinking': 2 occurrences
+' cognitive bias': 2 occurrences
+' mindset': 2 occurrences
+' assumptions': 2 occurrences
+'assignment team': 2 occurrences
+'21a afpc': 2 occurrences
+'foundational': 2 occurrences
+'collection requirements': 2 occurrences
+'collections': 2 occurrences
+'oversight': 2 occurrences
+'transparency': 2 occurrences
+'21x winter dt outbrief': 2 occurrences
+'t-prefix': 2 occurrences
+'advanced academic degree': 2 occurrences
+'21a dt members': 2 occurrences
+'aad unmasking': 2 occurrences
+'deputy group command hiring': 2 occurrences
+'aflos instructor': 2 occurrences
+'dt board': 2 occurrences
+'21a inventory': 2 occurrences
+'career development brief narrative': 2 occurrences
+'career field release': 2 occurrences
+'career field release process': 2 occurrences
+'cfetp in mytraining': 2 occurrences
+'strat pause': 2 occurrences
+'mxg cc course': 2 occurrences
+'winter 21a dt': 2 occurrences
+'21x o-6 all call': 2 occurrences
+'intelligence cycle': 2 occurrences
+'hypotheses': 2 occurrences
+'analytic process': 2 occurrences
+'analytic confidence': 2 occurrences
+'defense intelligence': 2 occurrences
+'defense intelligence enterprise': 2 occurrences
+'ach': 2 occurrences
+'analysis of competing hypotheses': 2 occurrences
+'intelligence process': 2 occurrences
+'cmmc': 2 occurrences
+'mbse cost modeling': 2 occurrences
+'cost modeling': 2 occurrences
+'skyzer pilot': 2 occurrences
+'mbse ': 2 occurrences
+'engineering design review': 2 occurrences
+'mbse style guides': 2 occurrences
+'system models': 2 occurrences
+'validation': 2 occurrences
+'systems engineering review': 2 occurrences
+'model validation': 2 occurrences
+'validation of models': 2 occurrences
+'concept definition': 2 occurrences
+'systems definition': 2 occurrences
+'system realization': 2 occurrences
+'technical assessment': 2 occurrences
+'afmc': 2 occurrences
+'intelligence planning': 2 occurrences
+'for approval only': 2 occurrences
+'21x summer dt': 2 occurrences
+'2023': 2 occurrences
+'summer 2023': 2 occurrences
+'21x dt outbrief summer 2023': 2 occurrences
+'de board feedback': 2 occurrences
+'os waiver': 2 occurrences
+'chinese dream': 2 occurrences
+'red talk': 2 occurrences
+'betterup coaching': 2 occurrences
+'audition': 2 occurrences
+'adobe ': 2 occurrences
+'adobe character animator': 2 occurrences
+'#logisticsreadiness': 2 occurrences
+'major promotions': 2 occurrences
+'21a myfss': 2 occurrences
+'21-101': 2 occurrences
+'21a authorizations': 2 occurrences
+'21a utilizations': 2 occurrences
+'21a education and training': 2 occurrences
+'control': 1 occurrences
+'cyber terrain': 1 occurrences
+'key terrain': 1 occurrences
+'terrain analysis': 1 occurrences
+'sql injection': 1 occurrences
+'authoritative': 1 occurrences
+'sources': 1 occurrences
+'disinformation': 1 occurrences
+'election security': 1 occurrences
+'misinformation': 1 occurrences
+'mobile security': 1 occurrences
+'twitter': 1 occurrences
+'us elections': 1 occurrences
+'web security': 1 occurrences
+'click': 1 occurrences
+'content-driven': 1 occurrences
+'local computer': 1 occurrences
+'scripts': 1 occurrences
+'surfers': 1 occurrences
+'website': 1 occurrences
+'test models': 1 occurrences
+'test': 1 occurrences
+'311 rcs': 1 occurrences
+'digital twins': 1 occurrences
+'air force weapon systems': 1 occurrences
+'cyber-related topics': 1 occurrences
+'risk assessments': 1 occurrences
+'system analysis': 1 occurrences
+'systems security engineering': 1 occurrences
+'wks 0665': 1 occurrences
+'bitcoin': 1 occurrences
+'cryptocurrency mining': 1 occurrences
+'webopedia': 1 occurrences
+'cryptocurrency mining definition': 1 occurrences
+'cryptomining definition': 1 occurrences
+'define': 1 occurrences
+'dictionary': 1 occurrences
+'cyber terrorism': 1 occurrences
+'cyber risk evaluation': 1 occurrences
+'network centric waifare': 1 occurrences
+'network risk evaluation': 1 occurrences
+'risk evaluation': 1 occurrences
+'#rubberducky': 1 occurrences
+'cyber hygience': 1 occurrences
+'cyberstrike': 1 occurrences
+'cyberwar 2025': 1 occurrences
+'cyber ciege': 1 occurrences
+'aircraft management': 1 occurrences
+'equipment maintenance': 1 occurrences
+'equipment management': 1 occurrences
+'hub': 1 occurrences
+'navigation': 1 occurrences
+'instructions': 1 occurrences
+'manual': 1 occurrences
+'show': 1 occurrences
+'step': 1 occurrences
+'centcom': 1 occurrences
+'isis': 1 occurrences
+'cyber team': 1 occurrences
+'mircea geoana': 1 occurrences
+'battlefield': 1 occurrences
+'cio': 1 occurrences
+'workforce': 1 occurrences
+'fleet cyber': 1 occurrences
+'marforcyber': 1 occurrences
+'lrc ': 1 occurrences
+'refinement': 1 occurrences
+'cyber education': 1 occurrences
+'incident response': 1 occurrences
+'multi-domain integration': 1 occurrences
+'sdo': 1 occurrences
+'services designated official': 1 occurrences
+'lessons': 1 occurrences
+'homework': 1 occurrences
+'math': 1 occurrences
+'mathematics': 1 occurrences
+'maths': 1 occurrences
+'school': 1 occurrences
+'tmrr': 1 occurrences
+'jadc2': 1 occurrences
+'information sharing': 1 occurrences
+'design patterns': 1 occurrences
+'intro to system engineering': 1 occurrences
+'introduction to system engineering': 1 occurrences
+'sustainment programs': 1 occurrences
+'sys 182': 1 occurrences
+'#oracle': 1 occurrences
+'countermeasures': 1 occurrences
+'critical program information': 1 occurrences
+'eng 260': 1 occurrences
+'hardware assurance': 1 occurrences
+'mission critical components': 1 occurrences
+'mission critical functions': 1 occurrences
+'pp': 1 occurrences
+'pp challenges': 1 occurrences
+'pp planning': 1 occurrences
+'program protection for practitioners': 1 occurrences
+'provide program protection': 1 occurrences
+'security risks': 1 occurrences
+'security specialties': 1 occurrences
+'setr': 1 occurrences
+'sse actions': 1 occurrences
+'sse challenges': 1 occurrences
+'system engineering technical reviews': 1 occurrences
+'system threats': 1 occurrences
+'trusted systems and networks': 1 occurrences
+'operator': 1 occurrences
+'professional': 1 occurrences
+'automation': 1 occurrences
+'spoofing': 1 occurrences
+'cyber war': 1 occurrences
+'britannica': 1 occurrences
+'cipher system': 1 occurrences
+'cryptosystem': 1 occurrences
+'encyclopeadia': 1 occurrences
+'encyclopedia': 1 occurrences
+'single-key cryptography': 1 occurrences
+'domains of conflict': 1 occurrences
+'intermediary': 1 occurrences
+'joint c2': 1 occurrences
+'joint command and control': 1 occurrences
+'stovepipe': 1 occurrences
+'satellite': 1 occurrences
+'transponder': 1 occurrences
+'drawn': 1 occurrences
+'red line': 1 occurrences
+'redline': 1 occurrences
+'linkedin': 1 occurrences
+'dod cyber': 1 occurrences
+'dod cyber authorities': 1 occurrences
+'dod cyber operations': 1 occurrences
+'military cyber operations': 1 occurrences
+'cyber domain': 1 occurrences
+'expected monetary value': 1 occurrences
+'library': 1 occurrences
+'*military reconnaissance': 1 occurrences
+'*national security -- united states': 1 occurrences
+'multidomain command and control': 1 occurrences
+'"how to "': 1 occurrences
+'"doccuments"': 1 occurrences
+'"convert"': 1 occurrences
+'"doccument"': 1 occurrences
+'"how"': 1 occurrences
+'"to"': 1 occurrences
+'"converting"': 1 occurrences
+'"pdf"': 1 occurrences
+'"scan"': 1 occurrences
+'"file"': 1 occurrences
+'"scanning"': 1 occurrences
+'"transfer"': 1 occurrences
+'darknet': 1 occurrences
+'pharming': 1 occurrences
+'app store': 1 occurrences
+'apple computer': 1 occurrences
+'apple computer inc.': 1 occurrences
+'apple inc': 1 occurrences
+'apple tv': 1 occurrences
+'google': 1 occurrences
+'mac pro': 1 occurrences
+'macbook pro': 1 occurrences
+'magic mouse': 1 occurrences
+'magic pad': 1 occurrences
+'microsoft': 1 occurrences
+'nokia': 1 occurrences
+'nvidia': 1 occurrences
+'rim': 1 occurrences
+'research in motion': 1 occurrences
+'samsung': 1 occurrences
+'i mac': 1 occurrences
+'ibook': 1 occurrences
+'ibook store': 1 occurrences
+'imac': 1 occurrences
+'ipad': 1 occurrences
+'iphone': 1 occurrences
+'ipod classic': 1 occurrences
+'ipod nano': 1 occurrences
+'ipod shuffle': 1 occurrences
+'ipod touch': 1 occurrences
+'itunes': 1 occurrences
+'itunes store': 1 occurrences
+'mac book': 1 occurrences
+'mac osx': 1 occurrences
+'mta': 1 occurrences
+'middle tier acquisition': 1 occurrences
+'section 804': 1 occurrences
+'cyber key terrain': 1 occurrences
+'cyber mission assurance': 1 occurrences
+'2020 ndaa': 1 occurrences
+'national defense authorization act': 1 occurrences
+'principal': 1 occurrences
+'deception toolkit': 1 occurrences
+'decoy': 1 occurrences
+'detection': 1 occurrences
+'honey nets': 1 occurrences
+'honeypot': 1 occurrences
+'ids': 1 occurrences
+'ips': 1 occurrences
+'prevention': 1 occurrences
+'browsers': 1 occurrences
+'deep web': 1 occurrences
+'election': 1 occurrences
+'d': 1 occurrences
+'deny': 1 occurrences
+'destroy': 1 occurrences
+'deter': 1 occurrences
+'effects': 1 occurrences
+'five': 1 occurrences
+'kubecon': 1 occurrences
+'nginx': 1 occurrences
+'aircrafts': 1 occurrences
+'caesar cipher': 1 occurrences
+'programs': 1 occurrences
+'24 deadly sins of software security: programming flaws and how to fix them': 1 occurrences
+'cookies': 1 occurrences
+'innovation change culture': 1 occurrences
+'levelup': 1 occurrences
+'html': 1 occurrences
+'agile software development': 1 occurrences
+'software acquisition pathway': 1 occurrences
+'polyalphabetic': 1 occurrences
+'add content': 1 occurrences
+'communications equipment (trbc)': 1 occurrences
+'computer crime / hacking / cybercrime': 1 occurrences
+'conflicts / war / peace': 1 occurrences
+'denmark': 1 occurrences
+'diplomacy / foreign policy': 1 occurrences
+'east european countries': 1 occurrences
+'elections / voting': 1 occurrences
+'europe': 1 occurrences
+'european union': 1 occurrences
+'germany': 1 occurrences
+'international / national security': 1 occurrences
+'internet / world wide web': 1 occurrences
+'major news': 1 occurrences
+'military conflicts': 1 occurrences
+'military procurement': 1 occurrences
+'nato': 1 occurrences
+'netherlands': 1 occurrences
+'north atlantic treaty organization': 1 occurrences
+'privacy / data protection': 1 occurrences
+'science': 1 occurrences
+'spain': 1 occurrences
+'us': 1 occurrences
+'us government news': 1 occurrences
+'united kingdom': 1 occurrences
+'united states': 1 occurrences
+'western europe': 1 occurrences
+'cyber training computer stem officers creative thinking': 1 occurrences
+'khan academy': 1 occurrences
+'lectures': 1 occurrences
+'videos': 1 occurrences
+'innovation leadership': 1 occurrences
+'case': 1 occurrences
+'study': 1 occurrences
+'assess risk': 1 occurrences
+'defense system acquisition project': 1 occurrences
+'pmt 0170': 1 occurrences
+'pmt 170': 1 occurrences
+'systems acquisition process': 1 occurrences
+'colossus': 1 occurrences
+'chinese': 1 occurrences
+'russian': 1 occurrences
+'threatspace': 1 occurrences
+'convolutional neural network': 1 occurrences
+'rgb': 1 occurrences
+'cytcoe': 1 occurrences
+'rf link': 1 occurrences
+'attestation': 1 occurrences
+'embedded': 1 occurrences
+'negative testing': 1 occurrences
+'runet': 1 occurrences
+'isolationism': 1 occurrences
+'endless': 1 occurrences
+'automotive': 1 occurrences
+'behavior': 1 occurrences
+'research and development': 1 occurrences
+'variables': 1 occurrences
+'information systems': 1 occurrences
+'voting machine': 1 occurrences
+'basics': 1 occurrences
+'clm 074': 1 occurrences
+'cybersecurity throughout dod acquisition': 1 occurrences
+'agile leadership acquisition mccrystal': 1 occurrences
+'"android"': 1 occurrences
+'"assault kit"': 1 occurrences
+'"atak"': 1 occurrences
+'"tak"': 1 occurrences
+'"team"': 1 occurrences
+'"technology"': 1 occurrences
+'"operator"': 1 occurrences
+'"awareness kit"': 1 occurrences
+'"user"': 1 occurrences
+'memorandum': 1 occurrences
+'afgm2018-63-146-01': 1 occurrences
+'the middle tier of acquisition': 1 occurrences
+'rapid prototyping': 1 occurrences
+'rapid  fielding': 1 occurrences
+'acquisition, technology, and logistics': 1 occurrences
+'assistant secretary of the air force': 1 occurrences
+'service acquisition executive': 1 occurrences
+'develop': 1 occurrences
+'access control': 1 occurrences
+'authentication': 1 occurrences
+'external': 1 occurrences
+'external attack protection': 1 occurrences
+'protection': 1 occurrences
+'threat model': 1 occurrences
+'act': 1 occurrences
+'decide': 1 occurrences
+'observe': 1 occurrences
+'orient': 1 occurrences
+'u.s. news': 1 occurrences
+'breaking news': 1 occurrences
+'entertainment': 1 occurrences
+'health': 1 occurrences
+'news online': 1 occurrences
+'sports': 1 occurrences
+'travel': 1 occurrences
+'weather': 1 occurrences
+'world news': 1 occurrences
+'resilient': 1 occurrences
+'competitive advantage': 1 occurrences
+'national defense strategy': 1 occurrences
+'nds': 1 occurrences
+'solutions': 1 occurrences
+'partnerships': 1 occurrences
+'startups': 1 occurrences
+'federal government': 1 occurrences
+'challenges': 1 occurrences
+'emerging commercial technologies': 1 occurrences
+'emerging': 1 occurrences
+'commercial technologies': 1 occurrences
+'accelerate change': 1 occurrences
+'flexible acquisitions': 1 occurrences
+'change culture': 1 occurrences
+'full-stack acquisition professionals': 1 occurrences
+'value to the warfighter': 1 occurrences
+'banshee': 1 occurrences
+'peo digital': 1 occurrences
+'peo c3i&n': 1 occurrences
+'masschallenge': 1 occurrences
+'trojan virus types': 1 occurrences
+'what is a trojan virus': 1 occurrences
+'story': 1 occurrences
+'highlights': 1 occurrences
+'quiz': 1 occurrences
+'comment': 1 occurrences
+'a2/ad': 1 occurrences
+'ausa 2018': 1 occurrences
+'airland battle': 1 occurrences
+'army futures command': 1 occurrences
+'cold war': 1 occurrences
+'gen. mark odom': 1 occurrences
+'missiles': 1 occurrences
+'tradoc': 1 occurrences
+'anti-access area denial': 1 occurrences
+'arcic': 1 occurrences
+'army future': 1 occurrences
+'electronic warfare': 1 occurrences
+'great power competition': 1 occurrences
+'hybrid war': 1 occurrences
+'information warfare': 1 occurrences
+'jointness': 1 occurrences
+'navy': 1 occurrences
+'talent': 1 occurrences
+'cyber security framework training': 1 occurrences
+'cyber security training': 1 occurrences
+'federal virtual training environment training': 1 occurrences
+'free cybersecurity training': 1 occurrences
+'veterans cyber security career path': 1 occurrences
+'veterans cyber security training': 1 occurrences
+'continuous deployment': 1 occurrences
+'cle 068': 1 occurrences
+'concepts and legal guidance related to intellectual property': 1 occurrences
+'intellectual property and data rights': 1 occurrences
+'rights in technical data': 1 occurrences
+'rights in computer software': 1 occurrences
+'driving': 1 occurrences
+'trade space analysis': 1 occurrences
+'acq hub': 1 occurrences
+'acquisition hub': 1 occurrences
+'taxonomy': 1 occurrences
+'topic map': 1 occurrences
+'fpm': 1 occurrences
+'fundamentals': 1 occurrences
+'ls': 1 occurrences
+'lasers': 1 occurrences
+'docker': 1 occurrences
+'serverless': 1 occurrences
+'professional reading': 1 occurrences
+'guidebook': 1 occurrences
+'sse cyber guidebook': 1 occurrences
+'sse guidebook': 1 occurrences
+'sse overview': 1 occurrences
+'systems security engineering cyber guidebook': 1 occurrences
+'standard': 1 occurrences
+'firmware': 1 occurrences
+'asia-pacific': 1 occurrences
+'australian': 1 occurrences
+'bay dynamics': 1 occurrences
+'cisos': 1 occurrences
+'charles carmakal': 1 occurrences
+'christopher wlaschin': 1 occurrences
+'cisco': 1 occurrences
+'cyber cooperation program': 1 occurrences
+'cyxtera': 1 occurrences
+'donnellly': 1 occurrences
+'essye miller': 1 occurrences
+'fireeye': 1 occurrences
+'greg touhill': 1 occurrences
+'jack donnelly': 1 occurrences
+'jeffrey eisensmith': 1 occurrences
+'michael papay': 1 occurrences
+'mike papay': 1 occurrences
+'nispom': 1 occurrences
+'nist framework': 1 occurrences
+'northrop grumman': 1 occurrences
+'pok�mon -go': 1 occurrences
+'ron zalkind': 1 occurrences
+'steven grossman': 1 occurrences
+'summit': 1 occurrences
+'tobia feakin': 1 occurrences
+'us department of defense': 1 occurrences
+'us department of health and human services': 1 occurrences
+'us department of homeland security': 1 occurrences
+'us department of the treasury': 1 occurrences
+'non-fiction': 1 occurrences
+'blackhat': 1 occurrences
+'bluehat': 1 occurrences
+'ebooks': 1 occurrences
+'elite': 1 occurrences
+'ethical': 1 occurrences
+'fiction': 1 occurrences
+'greyhat': 1 occurrences
+'l33t': 1 occurrences
+'newbie': 1 occurrences
+'penetrationtesters': 1 occurrences
+'reading': 1 occurrences
+'socialengineering': 1 occurrences
+'whitehat': 1 occurrences
+'download': 1 occurrences
+'virtual machine': 1 occurrences
+'dfars': 1 occurrences
+'picat': 1 occurrences
+'drones': 1 occurrences
+'detect a remote access to my computer': 1 occurrences
+'pentagon': 1 occurrences
+'cloud services': 1 occurrences
+'vulnerability': 1 occurrences
+'cyber college': 1 occurrences
+'industrial control systems': 1 occurrences
+'food production': 1 occurrences
+'power': 1 occurrences
+'traffic management': 1 occurrences
+'utilities': 1 occurrences
+'water production': 1 occurrences
+'water purification': 1 occurrences
+'octalysis': 1 occurrences
+'airmenfocusedtrainingvideos': 1 occurrences
+'youtube ': 1 occurrences
+'crowd sourced content': 1 occurrences
+'peer-to-peer': 1 occurrences
+'just-in-time training': 1 occurrences
+'ability': 1 occurrences
+'role': 1 occurrences
+'skill': 1 occurrences
+'specialty area': 1 occurrences
+'task': 1 occurrences
+'work role': 1 occurrences
+'toolset': 1 occurrences
+'card game': 1 occurrences
+'accounting': 1 occurrences
+'budget': 1 occurrences
+'fm': 1 occurrences
+'web development ': 1 occurrences
+'newswire': 1 occurrences
+'press': 1 occurrences
+'methodology': 1 occurrences
+'organization': 1 occurrences
+'csaf afa': 1 occurrences
+'on-demand app': 1 occurrences
+'aerospace & defense': 1 occurrences
+'aerospace and defense industry': 1 occurrences
+'amazon.com inc': 1 occurrences
+'investing in space': 1 occurrences
+'markets': 1 occurrences
+'space industry': 1 occurrences
+'the edge': 1 occurrences
+'transportation': 1 occurrences
+'us: news': 1 occurrences
+'wipe a computer': 1 occurrences
+'c4isr and networks': 1 occurrences
+'c4isrn': 1 occurrences
+'c4isrnet': 1 occurrences
+'c4isrnet.com': 1 occurrences
+'russia hacking': 1 occurrences
+'russia twitter hackers': 1 occurrences
+'russian hackers': 1 occurrences
+'us election hacking': 1 occurrences
+'quality assurance plan': 1 occurrences
+'ipt': 1 occurrences
+'program office': 1 occurrences
+'video creation': 1 occurrences
+'content creation': 1 occurrences
+'aicpa': 1 occurrences
+'cyber attacks': 1 occurrences
+'water jet': 1 occurrences
+'ako': 1 occurrences
+'dko': 1 occurrences
+'defense news': 1 occurrences
+'directive 8750': 1 occurrences
+'network-centric warfare': 1 occurrences
+'poe-eis': 1 occurrences
+'tsat': 1 occurrences
+'win-t': 1 occurrences
+'c4isr': 1 occurrences
+'defence contractors': 1 occurrences
+'defense budget': 1 occurrences
+'defense contractors': 1 occurrences
+'defense contracts': 1 occurrences
+'defense contracts news': 1 occurrences
+'defense games': 1 occurrences
+'defense information systems agency': 1 occurrences
+'defense knowledge online': 1 occurrences
+'defense logistics agence': 1 occurrences
+'defense mechanisms': 1 occurrences
+'defense system': 1 occurrences
+'defense systems': 1 occurrences
+'defense systems magazine': 1 occurrences
+'defense travel system': 1 occurrences
+'defensesystems': 1 occurrences
+'defensesystems.com': 1 occurrences
+'dla': 1 occurrences
+'information security': 1 occurrences
+'joint strike fighter': 1 occurrences
+'major defense contractors': 1 occurrences
+'netcents': 1 occurrences
+'netcents 2': 1 occurrences
+'robotics': 1 occurrences
+'robots': 1 occurrences
+'sensors': 1 occurrences
+'top defense companies': 1 occurrences
+'top defense contractors': 1 occurrences
+'top dod contractors': 1 occurrences
+'top military contractors': 1 occurrences
+'uav': 1 occurrences
+'uav predator': 1 occurrences
+'unmanned arial vehicles': 1 occurrences
+'weapons systems': 1 occurrences
+'#avolve': 1 occurrences
+'close caption': 1 occurrences
+'banks': 1 occurrences
+'money': 1 occurrences
+'modern day': 1 occurrences
+'elicitation': 1 occurrences
+'acvamp': 1 occurrences
+'adversary attack': 1 occurrences
+'attack path': 1 occurrences
+'avionics cyber vulnerability assessment, mitigation and protection': 1 occurrences
+'cyber resiliency; avionics systems': 1 occurrences
+'cyber vulnerabilities': 1 occurrences
+'cybersecurity related to aircraft avionic systems': 1 occurrences
+'five step vulnerability assessment': 1 occurrences
+'mitigation process': 1 occurrences
+'sys 240': 1 occurrences
+'vulnerabilities in an avionic system': 1 occurrences
+'computer': 1 occurrences
+'tech tips': 1 occurrences
+'cyber ethics': 1 occurrences
+'cyber threats': 1 occurrences
+'spam': 1 occurrences
+'jaic': 1 occurrences
+'national mission initiatives': 1 occurrences
+'nmi': 1 occurrences
+'joint common foundation': 1 occurrences
+'jcf': 1 occurrences
+'dod cio': 1 occurrences
+'game trailer battlespace': 1 occurrences
+'theory': 1 occurrences
+'architectural analyses': 1 occurrences
+'ato request packages': 1 occurrences
+'authorization to operate': 1 occurrences
+'cyber risk assessment for weapon system': 1 occurrences
+'cybersecurity analyses': 1 occurrences
+'information system security managers': 1 occurrences
+'issm': 1 occurrences
+'pit': 1 occurrences
+'security control assessors': 1 occurrences
+'sys 341': 1 occurrences
+'system engineers': 1 occurrences
+'weapon system designs, cybersecurity risks': 1 occurrences
+'weapon system program offices': 1 occurrences
+'isp': 1 occurrences
+'wifi': 1 occurrences
+'devices': 1 occurrences
+'cisa': 1 occurrences
+'cyber risks': 1 occurrences
+'military cyber': 1 occurrences
+'2018': 1 occurrences
+'ccc': 1 occurrences
+'cybersecurity guidance': 1 occurrences
+'mastery': 1 occurrences
+'rackspace': 1 occurrences
+'sense of purpose': 1 occurrences
+'test driven development, tdd, agile, seng593': 1 occurrences
+'cybersecurity podcast': 1 occurrences
+'ransomware': 1 occurrences
+'stalking': 1 occurrences
+'clm 076': 1 occurrences
+'data markings': 1 occurrences
+'acq 1010': 1 occurrences
+'accept': 1 occurrences
+'risk mitigation': 1 occurrences
+'transfer': 1 occurrences
+'lines of effort': 1 occurrences
+'lockheed martin': 1 occurrences
+'u-2 dragonlady': 1 occurrences
+'u.s. air force': 1 occurrences
+'reequirements': 1 occurrences
+'irgc': 1 occurrences
+'fake news': 1 occurrences
+'fara': 1 occurrences
+'domain name': 1 occurrences
+'chief software office': 1 occurrences
+'dod enterprise devsecops': 1 occurrences
+'culture,': 1 occurrences
+'documentary,': 1 occurrences
+'politics,': 1 occurrences
+'tracking,nso': 1 occurrences
+'travel,': 1 occurrences
+'video,': 1 occurrences
+'wyden,phone-hacking,pegasus,cellphone': 1 occurrences
+'wyden,senator': 1 occurrences
+'mobile': 1 occurrences
+'protocol': 1 occurrences
+'layers': 1 occurrences
+' risk management': 1 occurrences
+'future ': 1 occurrences
+'avolve terminology': 1 occurrences
+'avolve tutorials ': 1 occurrences
+'eng 10': 1 occurrences
+'fundamentals of systems engineering': 1 occurrences
+'systems engineering processes': 1 occurrences
+'defense acquisition guidebook': 1 occurrences
+'dag': 1 occurrences
+'systems engineers': 1 occurrences
+'dod systems engineering processes': 1 occurrences
+'stomp': 1 occurrences
+'body of knowledge': 1 occurrences
+'community': 1 occurrences
+'curriculum': 1 occurrences
+'enginieering': 1 occurrences
+'foundation': 1 occurrences
+'implementation': 1 occurrences
+'systems thinking': 1 occurrences
+'gas': 1 occurrences
+'industry': 1 occurrences
+'oil': 1 occurrences
+'computer systems': 1 occurrences
+'services 7-step process': 1 occurrences
+'info war': 1 occurrences
+'software factories': 1 occurrences
+'space camp': 1 occurrences
+'level up': 1 occurrences
+'understanding': 1 occurrences
+'jfokus': 1 occurrences
+'r&d': 1 occurrences
+'commercialization': 1 occurrences
+'csaf acquisition leadership': 1 occurrences
+'calendar': 1 occurrences
+'cybersecurity maturity model certification (cmmc)': 1 occurrences
+'mr. alan r. shaffer': 1 occurrences
+'ms. ellen m. lord': 1 occurrences
+'ousd a&s': 1 occurrences
+'ousd acquisition & sustainment': 1 occurrences
+'ousd acquisition and sustainment': 1 occurrences
+'domain': 1 occurrences
+'superiority': 1 occurrences
+'pii': 1 occurrences
+'encrypt email alternative': 1 occurrences
+'leadership diversity culture': 1 occurrences
+'avolve assessment': 1 occurrences
+'avolve tutorials': 1 occurrences
+'service bus': 1 occurrences
+'microsoft azure': 1 occurrences
+'messaging': 1 occurrences
+'snapple': 1 occurrences
+'small business innovation research': 1 occurrences
+'small business technology transfer': 1 occurrences
+'recruiting squadron': 1 occurrences
+'339  rcs': 1 occurrences
+'vision': 1 occurrences
+'total force': 1 occurrences
+'total force recruiting': 1 occurrences
+'cost estimate analogous parametric bottom up expert': 1 occurrences
+'internet security': 1 occurrences
+'rule 41': 1 occurrences
+'san bernardino': 1 occurrences
+'zero-day': 1 occurrences
+'2nd edition': 1 occurrences
+'9780124166721': 1 occurrences
+'textbook': 1 occurrences
+'human performance analysis': 1 occurrences
+'presidential review directive five': 1 occurrences
+'ccr': 1 occurrences
+'center for cyberspace research': 1 occurrences
+'mdc': 1 occurrences
+'mdc2': 1 occurrences
+'card': 1 occurrences
+'hit points': 1 occurrences
+'install knoppix linux': 1 occurrences
+'gamified': 1 occurrences
+'swift': 1 occurrences
+'msa': 1 occurrences
+'data analysis': 1 occurrences
+'vulnerability assessment': 1 occurrences
+'new technology': 1 occurrences
+'obsolete': 1 occurrences
+'iron triangle': 1 occurrences
+'cost schedule performance': 1 occurrences
+'wbs schedule decomposition': 1 occurrences
+'airman snuffy': 1 occurrences
+'maintenance equipment': 1 occurrences
+'real world': 1 occurrences
+'acquisition strategy': 1 occurrences
+'wargame': 1 occurrences
+'emd': 1 occurrences
+'featured': 1 occurrences
+'_legacy_/content/vanityfair/culture/features/2011/09/chinese-hacking-201109': 1 occurrences
+'kiddy': 1 occurrences
+'noobs': 1 occurrences
+'script kitty': 1 occurrences
+'f-35': 1 occurrences
+'spaceforce': 1 occurrences
+'cybereducation': 1 occurrences
+'all': 1 occurrences
+'career exploration program': 1 occurrences
+'mepcom': 1 occurrences
+'cep': 1 occurrences
+'hs testing': 1 occurrences
+'processor': 1 occurrences
+'brief': 1 occurrences
+'eza-110': 1 occurrences
+'#canopy ': 1 occurrences
+'#devsecops': 1 occurrences
+'#collaborative': 1 occurrences
+'qubit': 1 occurrences
+'xp': 1 occurrences
+'agile programming': 1 occurrences
+'alliance': 1 occurrences
+'extreme programming': 1 occurrences
+'iterative': 1 occurrences
+'software project management': 1 occurrences
+'ghidra': 1 occurrences
+'reverse engineering': 1 occurrences
+'agile software waterfall project management': 1 occurrences
+'international': 1 occurrences
+'terrain': 1 occurrences
+'media release': 1 occurrences
+'press release': 1 occurrences
+'virus': 1 occurrences
+'worms': 1 occurrences
+'o&s': 1 occurrences
+'rssl': 1 occurrences
+'809': 1 occurrences
+'dawia': 1 occurrences
+'defense business systems': 1 occurrences
+'strategies': 1 occurrences
+'cyber-physical system': 1 occurrences
+'engineers': 1 occurrences
+'management of the systems engineering process': 1 occurrences
+'non-engineer': 1 occurrences
+'se concepts': 1 occurrences
+'se process': 1 occurrences
+'se tools': 1 occurrences
+'sustainment life cycle': 1 occurrences
+'sys 282': 1 occurrences
+'system life cycle': 1 occurrences
+'edge, fog and cloud computing': 1 occurrences
+'collaborative': 1 occurrences
+'spaces': 1 occurrences
+'product lifecycle management': 1 occurrences
+'technical data': 1 occurrences
+'development,': 1 occurrences
+'force,': 1 occurrences
+'microservices ': 1 occurrences
+'rootkit': 1 occurrences
+'norton_protection_blog': 1 occurrences
+'software_updates': 1 occurrences
+'army cyber command': 1 occurrences
+'cyber attack': 1 occurrences
+'cyberattacks': 1 occurrences
+'fleet cyber command': 1 occurrences
+'work breakdown structure': 1 occurrences
+'decomposition': 1 occurrences
+'work package': 1 occurrences
+'summary task': 1 occurrences
+'fam': 1 occurrences
+'trojan horse': 1 occurrences
+'backdoor': 1 occurrences
+'code': 1 occurrences
+'compiler': 1 occurrences
+'debug': 1 occurrences
+'defend': 1 occurrences
+'logic bomb': 1 occurrences
+'pseudo flaw': 1 occurrences
+'sendmail': 1 occurrences
+'trap door': 1 occurrences
+'worm': 1 occurrences
+'job counseling': 1 occurrences
+'wannacry': 1 occurrences
+'wannacry ransomware': 1 occurrences
+'database': 1 occurrences
+'dbms': 1 occurrences
+'sql server 2008': 1 occurrences
+'what is data': 1 occurrences
+'siemens': 1 occurrences
+'teamcenter': 1 occurrences
+'17x': 1 occurrences
+'career': 1 occurrences
+'cyberspace operations officer': 1 occurrences
+'plan': 1 occurrences
+'joint appointment module': 1 occurrences
+'surveillance and performance monitoring': 1 occurrences
+'acquisition lifecycle': 1 occurrences
+'cle 81': 1 occurrences
+'swa': 1 occurrences
+'credit card': 1 occurrences
+'criminals': 1 occurrences
+'skim': 1 occurrences
+'skimmers': 1 occurrences
+'skimming': 1 occurrences
+'thieves': 1 occurrences
+'quantum battlefield qubits qubit decryption': 1 occurrences
+'acquisition innovation program management contracting': 1 occurrences
+'how to ': 1 occurrences
+'beginner': 1 occurrences
+'integrate': 1 occurrences
+'contract,': 1 occurrences
+'factory': 1 occurrences
+'platform,': 1 occurrences
+'unified': 1 occurrences
+'2016 election': 1 occurrences
+'2016 election hacking': 1 occurrences
+'donald trump russia': 1 occurrences
+'election hacking': 1 occurrences
+'russia us election hacking': 1 occurrences
+'voter fraud': 1 occurrences
+'voter fraud commission': 1 occurrences
+'voter fraud hacking': 1 occurrences
+'best engineering practices': 1 occurrences
+'cle 003': 1 occurrences
+'defense acquisition guidebook, chapter 4': 1 occurrences
+'systems engineering plan': 1 occurrences
+'technical assessment process': 1 occurrences
+'technical reviews': 1 occurrences
+'p&d': 1 occurrences
+'hacker lexicon': 1 occurrences
+'snowden': 1 occurrences
+'encryption': 1 occurrences
+'jcids': 1 occurrences
+'u.s.': 1 occurrences
+'coercion': 1 occurrences
+'compel': 1 occurrences
+'persistent': 1 occurrences
+'federal virtual training environment': 1 occurrences
+'cyber security framework': 1 occurrences
+'cyber security studies': 1 occurrences
+'department of homeland security': 1 occurrences
+'national initiative for cybersecurity careers and studies': 1 occurrences
+'niccs': 1 occurrences
+'netflix': 1 occurrences
+'digital education': 1 occurrences
+'web apps': 1 occurrences
+'location sharing': 1 occurrences
+'closed captioning': 1 occurrences
+'atmospherics': 1 occurrences
+'af recruiting': 1 occurrences
+'acas': 1 occurrences
+'hbss': 1 occurrences
+'stig': 1 occurrences
+'tenable': 1 occurrences
+'vulnerability management': 1 occurrences
+'epo': 1 occurrences
+'intro to trusted systems networks': 1 occurrences
+'introduction to tsn': 1 occurrences
+'supply chain threats': 1 occurrences
+'ppr 150': 1 occurrences
+'gps': 1 occurrences
+'reed solomon': 1 occurrences
+'global positioning system': 1 occurrences
+'internet service provider': 1 occurrences
+'nistir 7298 glossary': 1 occurrences
+'cyber dictionary': 1 occurrences
+'cyber security acronyms': 1 occurrences
+'cyber security definitions': 1 occurrences
+'cyber security glossary': 1 occurrences
+'cyber security lexicon': 1 occurrences
+'cyber security terminology': 1 occurrences
+'cyber security terms': 1 occurrences
+'definitions': 1 occurrences
+'index': 1 occurrences
+'terms': 1 occurrences
+'computer security': 1 occurrences
+'decision support systems': 1 occurrences
+'information security risk management': 1 occurrences
+'rainbowcrack': 1 occurrences
+'workflow of ml projects': 1 occurrences
+'ai terminology': 1 occurrences
+'ai strategy': 1 occurrences
+'workflow of data science projects': 1 occurrences
+'cyber awareness challenge': 1 occurrences
+'acquisition planning': 1 occurrences
+'competition': 1 occurrences
+'421': 1 occurrences
+'afi 63-138': 1 occurrences
+'afpeo/cm': 1 occurrences
+'risk management framework': 1 occurrences
+'contested environment': 1 occurrences
+'extensibility': 1 occurrences
+'extensible': 1 occurrences
+'mission capability focus': 1 occurrences
+'object oriented': 1 occurrences
+'object-oriented': 1 occurrences
+'portability': 1 occurrences
+'portable': 1 occurrences
+'recursive': 1 occurrences
+'risk model': 1 occurrences
+'social-technical system': 1 occurrences
+'temporal': 1 occurrences
+'threat intelligence': 1 occurrences
+'threat remediation': 1 occurrences
+'threat-fed': 1 occurrences
+'acq 160': 1 occurrences
+'acquisition program protection documents': 1 occurrences
+'cybersecurity strategy': 1 occurrences
+'principles and policies of system security engineering': 1 occurrences
+'program protection challenges': 1 occurrences
+'program protection plan': 1 occurrences
+'program protection planning': 1 occurrences
+'program protection planning awareness': 1 occurrences
+'supply chain management': 1 occurrences
+'vulnerabilities, risks, cost-benefit risk trade-offs, required mitigations for dod systems': 1 occurrences
+'fancy bear': 1 occurrences
+'ast': 1 occurrences
+'cicc': 1 occurrences
+'crst': 1 occurrences
+'education and training': 1 occurrences
+'information protection': 1 occurrences
+'mitigations': 1 occurrences
+'mrap': 1 occurrences
+'special projects': 1 occurrences
+'cle 80': 1 occurrences
+'ict': 1 occurrences
+'information and communications technology': 1 occurrences
+'subnet masking': 1 occurrences
+'life cycle logistics': 1 occurrences
+'performance analysis': 1 occurrences
+'guidance ': 1 occurrences
+'appointment guide': 1 occurrences
+'what to do': 1 occurrences
+'imnewwhatdoido': 1 occurrences
+'cyber warfare training module': 1 occurrences
+'stem': 1 occurrences
+'cyber operators': 1 occurrences
+'cyber security certfications': 1 occurrences
+'improve education': 1 occurrences
+'cle 022': 1 occurrences
+'dod critical program information': 1 occurrences
+'program manager introduction to anti-tamper': 1 occurrences
+'function': 1 occurrences
+'usability': 1 occurrences
+'bmi': 1 occurrences
+'height': 1 occurrences
+'activism': 1 occurrences
+'nonprofits': 1 occurrences
+'audience analysis': 1 occurrences
+'learning theory': 1 occurrences
+'dick and carey': 1 occurrences
+'tire servicing': 1 occurrences
+'ptm training': 1 occurrences
+'crw': 1 occurrences
+'crg': 1 occurrences
+'contingency response group': 1 occurrences
+'uncetainty': 1 occurrences
+'distance learning': 1 occurrences
+'f15': 1 occurrences
+'learning analytics': 1 occurrences
+'educational research': 1 occurrences
+'analysis techniques': 1 occurrences
+'deploy': 1 occurrences
+'jasdf': 1 occurrences
+'nanolearning': 1 occurrences
+'synchronous learning': 1 occurrences
+'lectora': 1 occurrences
+'creating learning': 1 occurrences
+'teacher education': 1 occurrences
+'digital tools': 1 occurrences
+'apps': 1 occurrences
+'online trianing': 1 occurrences
+'learning experience': 1 occurrences
+'teaching apps': 1 occurrences
+'learning tools': 1 occurrences
+'vendor management': 1 occurrences
+'platform one': 1 occurrences
+'hp': 1 occurrences
+'lo': 1 occurrences
+'acceleration': 1 occurrences
+'organizational learning': 1 occurrences
+'lesson plans': 1 occurrences
+'online classroom': 1 occurrences
+'virtual facilitation': 1 occurrences
+'design a logo': 1 occurrences
+'graphic design': 1 occurrences
+'instructional videos': 1 occurrences
+'resource analysis': 1 occurrences
+'capabilities analysis': 1 occurrences
+'rivets': 1 occurrences
+'ojt': 1 occurrences
+'on-the-job': 1 occurrences
+'leadership training': 1 occurrences
+'in person training': 1 occurrences
+'learning project management': 1 occurrences
+'formal learning': 1 occurrences
+'lcms': 1 occurrences
+'blended learning': 1 occurrences
+'hybrid learning': 1 occurrences
+'hyflex': 1 occurrences
+'student centered': 1 occurrences
+'student-directed': 1 occurrences
+'exc': 1 occurrences
+'job duties': 1 occurrences
+'f22': 1 occurrences
+'flash': 1 occurrences
+'participants': 1 occurrences
+'classroom management': 1 occurrences
+'risk statements': 1 occurrences
+'adobe captivate faqs': 1 occurrences
+'adobe captivate frequently asked questions': 1 occurrences
+'adobe captivate help': 1 occurrences
+'adobe captivate help center': 1 occurrences
+'adobe captivate queries': 1 occurrences
+'adobe captivate support': 1 occurrences
+'adobe captivate support questions': 1 occurrences
+'adobe captivate technical support': 1 occurrences
+'author elearning': 1 occurrences
+'bugs in adobe captivate': 1 occurrences
+'bugs in captivate': 1 occurrences
+'captivate faqs': 1 occurrences
+'captivate frequently asked questions': 1 occurrences
+'captivate help': 1 occurrences
+'captivate help center': 1 occurrences
+'captivate queries': 1 occurrences
+'captivate support': 1 occurrences
+'captivate technical support': 1 occurrences
+'create elearning': 1 occurrences
+'elearning author': 1 occurrences
+'elearning authoring': 1 occurrences
+'elearning authors': 1 occurrences
+'elearning community': 1 occurrences
+'elearning forum': 1 occurrences
+'elearning heroes': 1 occurrences
+'elearning industry': 1 occurrences
+'elearning portal': 1 occurrences
+'elearning resources': 1 occurrences
+'elearning system': 1 occurrences
+'elearning tools': 1 occurrences
+'how to create elearning': 1 occurrences
+'problems with captivate': 1 occurrences
+'technical problems with captivate': 1 occurrences
+'what is elearning': 1 occurrences
+'what's new in elearning': 1 occurrences
+'developing leaders': 1 occurrences
+'moodle': 1 occurrences
+'kms': 1 occurrences
+'datacenter': 1 occurrences
+'ansible': 1 occurrences
+'excg': 1 occurrences
+'learning experiences': 1 occurrences
+'front-end analysis': 1 occurrences
+'performance gaps': 1 occurrences
+'risk management strategy ': 1 occurrences
+'storyboarding': 1 occurrences
+'knoweldge': 1 occurrences
+'abilities': 1 occurrences
+'ksa': 1 occurrences
+'ksao': 1 occurrences
+'organizational analysis': 1 occurrences
+'training intervention': 1 occurrences
+'universal design of learning (udl)': 1 occurrences
+'ux design': 1 occurrences
+'job-aid': 1 occurrences
+'risks': 1 occurrences
+'risk populations': 1 occurrences
+'consulting': 1 occurrences
+'instructional delivery': 1 occurrences
+'snagit': 1 occurrences
+'screen capture': 1 occurrences
+'record video': 1 occurrences
+'tutorials': 1 occurrences
+'screenshots': 1 occurrences
+'penetration testing': 1 occurrences
+'pen testing': 1 occurrences
+'pen test': 1 occurrences
+'penetration test': 1 occurrences
+'skill assessment': 1 occurrences
+'designing assessments': 1 occurrences
+'learning process': 1 occurrences
+'skill acquisition': 1 occurrences
+'kneel': 1 occurrences
+'kneeling': 1 occurrences
+'fred': 1 occurrences
+'loading': 1 occurrences
+'lockheed': 1 occurrences
+'jlg': 1 occurrences
+'high reach': 1 occurrences
+'high lift': 1 occurrences
+'microsoft 365': 1 occurrences
+'education research': 1 occurrences
+'research methods': 1 occurrences
+'roi': 1 occurrences
+'risk management plant': 1 occurrences
+'blackboard': 1 occurrences
+'learning technology': 1 occurrences
+'edtech': 1 occurrences
+'canvas': 1 occurrences
+'capability development': 1 occurrences
+'capability model': 1 occurrences
+'content lifecycle': 1 occurrences
+'training data management': 1 occurrences
+'mentor': 1 occurrences
+'mentoring': 1 occurrences
+'new trainer': 1 occurrences
+'digital learning': 1 occurrences
+'teaching activities': 1 occurrences
+'coaches': 1 occurrences
+'partnering': 1 occurrences
+'learning styles': 1 occurrences
+'indesign': 1 occurrences
+'illustrator': 1 occurrences
+'zoom': 1 occurrences
+'decision making ': 1 occurrences
+'professor': 1 occurrences
+'microsoft teams': 1 occurrences
+'constructivism': 1 occurrences
+'learning program': 1 occurrences
+'diversity & inclusion': 1 occurrences
+'employee engagement': 1 occurrences
+'succession plan': 1 occurrences
+'talent development program': 1 occurrences
+'workplace of the future': 1 occurrences
+'collaborative learning': 1 occurrences
+'badges': 1 occurrences
+'learning science': 1 occurrences
+'entrepreneur': 1 occurrences
+'success': 1 occurrences
+'talks': 1 occurrences
+'ted': 1 occurrences
+'tedx': 1 occurrences
+'sinek': 1 occurrences
+'simon sinek': 1 occurrences
+'gagne': 1 occurrences
+'instructional events': 1 occurrences
+'distance education': 1 occurrences
+'online classes': 1 occurrences
+'online education': 1 occurrences
+'instructional activities': 1 occurrences
+'training development': 1 occurrences
+'ei': 1 occurrences
+'student management': 1 occurrences
+'learning events': 1 occurrences
+'activate a course': 1 occurrences
+'explore': 1 occurrences
+'national security commission on artificial intelligence': 1 occurrences
+'chief of staff of the air force professional reading list': 1 occurrences
+'pentest+': 1 occurrences
+'web application security': 1 occurrences
+'online': 1 occurrences
+'ssh': 1 occurrences
+'powershell': 1 occurrences
+'certification': 1 occurrences
+'certifications': 1 occurrences
+'pcap': 1 occurrences
+'packet capture': 1 occurrences
+'traffic analysis': 1 occurrences
+'pcaps': 1 occurrences
+'wireshark': 1 occurrences
+'tshark': 1 occurrences
+'tcpdump': 1 occurrences
+'exercise': 1 occurrences
+'icarus': 1 occurrences
+'lego': 1 occurrences
+'virtual school visit': 1 occurrences
+'virtual classroom visit': 1 occurrences
+'chief master sergeant': 1 occurrences
+'chief master sergeant leadership course': 1 occurrences
+'clc': 1 occurrences
+'maxwell-gunter afb': 1 occurrences
+'barnes center': 1 occurrences
+'air force chief of staff': 1 occurrences
+'leadership library': 1 occurrences
+'csaf professional reading list': 1 occurrences
+'warfighting': 1 occurrences
+'heritage': 1 occurrences
+'strategic environment': 1 occurrences
+'technology & innovation': 1 occurrences
+'cmsaf picks': 1 occurrences
+'rwk': 1 occurrences
+'qualitative,': 1 occurrences
+' quantitative': 1 occurrences
+'airman 4 life': 1 occurrences
+'life': 1 occurrences
+'officership': 1 occurrences
+'airmanship': 1 occurrences
+'risk reporting': 1 occurrences
+'expected loss': 1 occurrences
+' risk reporting': 1 occurrences
+' expected loss': 1 occurrences
+'508': 1 occurrences
+' planning & implementation ': 1 occurrences
+' risk response strategies': 1 occurrences
+'planning & implementation': 1 occurrences
+' risk handling': 1 occurrences
+'planning & implementatio': 1 occurrences
+' risk management ': 1 occurrences
+' planning & implementation': 1 occurrences
+' risk reviews': 1 occurrences
+'advertising': 1 occurrences
+'career fields': 1 occurrences
+'info': 1 occurrences
+'projecting': 1 occurrences
+'initial contact': 1 occurrences
+' risk tracking': 1 occurrences
+' threat risk ': 1 occurrences
+'threat risk': 1 occurrences
+' threat risk': 1 occurrences
+' goals': 1 occurrences
+'center of influence': 1 occurrences
+'educators': 1 occurrences
+'counselors': 1 occurrences
+'the goal': 1 occurrences
+'misconceptions': 1 occurrences
+'air force myths': 1 occurrences
+'air force misconceptions': 1 occurrences
+'pt': 1 occurrences
+'cscrm': 1 occurrences
+'supplychain': 1 occurrences
+'global': 1 occurrences
+'shipping': 1 occurrences
+'nationalsecurity': 1 occurrences
+'contractors': 1 occurrences
+'military software development': 1 occurrences
+'in-house software': 1 occurrences
+'military coders': 1 occurrences
+'agility': 1 occurrences
+'af cyber college': 1 occurrences
+'national cryptologic school': 1 occurrences
+'continuing education': 1 occurrences
+'lesson planning': 1 occurrences
+'instruction': 1 occurrences
+'professionalism': 1 occurrences
+'trust': 1 occurrences
+'loyalty': 1 occurrences
+'commitment': 1 occurrences
+'facilitator': 1 occurrences
+'faclitation': 1 occurrences
+'informaing': 1 occurrences
+'active learning': 1 occurrences
+'online class': 1 occurrences
+'learning technologies': 1 occurrences
+'#ecx': 1 occurrences
+'userinterface': 1 occurrences
+'#userinterface': 1 occurrences
+'rocketcomm': 1 occurrences
+'#rocketcomm': 1 occurrences
+'uxds': 1 occurrences
+'#uxds': 1 occurrences
+'followership': 1 occurrences
+'first follower': 1 occurrences
+'mission brief': 1 occurrences
+'prospecting': 1 occurrences
+'briefing': 1 occurrences
+'tfmmt': 1 occurrences
+'requesting assets': 1 occurrences
+'local assets': 1 occurrences
+'national assets': 1 occurrences
+'checklists': 1 occurrences
+'open topic': 1 occurrences
+'fap': 1 occurrences
+'expectations': 1 occurrences
+'zone awareness': 1 occurrences
+'investigate': 1 occurrences
+'toolkit': 1 occurrences
+'training records': 1 occurrences
+'xstem': 1 occurrences
+'meps ': 1 occurrences
+'military entrance processing': 1 occurrences
+'meps brief': 1 occurrences
+'2w1': 1 occurrences
+'alcm': 1 occurrences
+'global thunder': 1 occurrences
+'neutron': 1 occurrences
+'minot': 1 occurrences
+'5 mxg': 1 occurrences
+'wpns': 1 occurrences
+'helium': 1 occurrences
+'hnt': 1 occurrences
+'lorawan': 1 occurrences
+'wireless': 1 occurrences
+'802.11': 1 occurrences
+'wi-fi': 1 occurrences
+'halow': 1 occurrences
+'lora': 1 occurrences
+'lpwan': 1 occurrences
+'crypto': 1 occurrences
+'natural disaster': 1 occurrences
+'smart bases': 1 occurrences
+'low power': 1 occurrences
+'aide': 1 occurrences
+'slideshow': 1 occurrences
+'powerpoint': 1 occurrences
+'dep': 1 occurrences
+'dep board': 1 occurrences
+'avery': 1 occurrences
+' word': 1 occurrences
+' template': 1 occurrences
+'qualification': 1 occurrences
+'form': 1 occurrences
+' uncertainty': 1 occurrences
+'playbook': 1 occurrences
+'innovative': 1 occurrences
+'tenets': 1 occurrences
+'leadership principles': 1 occurrences
+'sprint': 1 occurrences
+'stand up': 1 occurrences
+'deep dive': 1 occurrences
+'values': 1 occurrences
+'team work': 1 occurrences
+'behaviors': 1 occurrences
+'okrs': 1 occurrences
+'key results': 1 occurrences
+'idea': 1 occurrences
+'escape velocity pipeline': 1 occurrences
+'airmen ideas': 1 occurrences
+'industry best practices': 1 occurrences
+'contact list': 1 occurrences
+'team roster': 1 occurrences
+'tesseract team': 1 occurrences
+'team': 1 occurrences
+'aef': 1 occurrences
+'deployment taskings': 1 occurrences
+'deployment bandwidths': 1 occurrences
+'randolph academics ': 1 occurrences
+'organic toc': 1 occurrences
+'slingshot academics': 1 occurrences
+'flow': 1 occurrences
+'improving the unit': 1 occurrences
+'efficiency': 1 occurrences
+'fencing aircraft': 1 occurrences
+'right sized maintenance': 1 occurrences
+'case studies': 1 occurrences
+'focus and flow': 1 occurrences
+'flash bulletin': 1 occurrences
+'422 mobility training squadron': 1 occurrences
+'309 sweg': 1 occurrences
+'aircraft scheduling': 1 occurrences
+'personnel scheduling': 1 occurrences
+'beta testing': 1 occurrences
+'innovativeaf': 1 occurrences
+'readinesstothemoon': 1 occurrences
+'mobility machine': 1 occurrences
+'digital tool': 1 occurrences
+'ipe': 1 occurrences
+'deployment processing': 1 occurrences
+'mvp': 1 occurrences
+'minimum viable product': 1 occurrences
+'101': 1 occurrences
+'haf staff innovation': 1 occurrences
+'idf/kitting': 1 occurrences
+'inspection development framework': 1 occurrences
+'triple helix parternship': 1 occurrences
+'georgia tech research institute': 1 occurrences
+'mobility processing': 1 occurrences
+'foundations': 1 occurrences
+'rubric': 1 occurrences
+'competency assessment': 1 occurrences
+'21a occupational competency model': 1 occurrences
+'course matrix': 1 occurrences
+'cbl': 1 occurrences
+'oct 21 fireside': 1 occurrences
+'career field changes': 1 occurrences
+'career field education and training plan': 1 occurrences
+'competency': 1 occurrences
+'career field mananger': 1 occurrences
+'05 promotion': 1 occurrences
+'promotion': 1 occurrences
+'a4lm': 1 occurrences
+'special warfare': 1 occurrences
+'sw': 1 occurrences
+'sw careers': 1 occurrences
+'sw presentation': 1 occurrences
+'sw infographic': 1 occurrences
+'ccaf': 1 occurrences
+'acceptance ': 1 occurrences
+'letter': 1 occurrences
+'entry': 1 occurrences
+'2021': 1 occurrences
+'#lrotmyk': 1 occurrences
+'qualifications': 1 occurrences
+'adam grant': 1 occurrences
+'building teams': 1 occurrences
+'leading culture': 1 occurrences
+'roadmap': 1 occurrences
+'enviornment': 1 occurrences
+'human skills': 1 occurrences
+'daniel coyle': 1 occurrences
+'jobs': 1 occurrences
+'how to guide': 1 occurrences
+'lead generation ': 1 occurrences
+'lpd': 1 occurrences
+'432 mxg': 1 occurrences
+'professional reading program': 1 occurrences
+'officer development': 1 occurrences
+'readiness pep': 1 occurrences
+' agile principles': 1 occurrences
+'competency-based training': 1 occurrences
+'competency based development': 1 occurrences
+'maintenance officer training': 1 occurrences
+'maintenance officer development': 1 occurrences
+'virtual kitting': 1 occurrences
+'georgia tech research insitute': 1 occurrences
+'mentorship': 1 occurrences
+'sponsor': 1 occurrences
+'broadening': 1 occurrences
+'outward mindset': 1 occurrences
+'new commander': 1 occurrences
+'shaw afb': 1 occurrences
+'commander': 1 occurrences
+'21a squadron commanders course': 1 occurrences
+' programming': 1 occurrences
+'aspc': 1 occurrences
+'21a sq cc': 1 occurrences
+'cy23 21a sq cc': 1 occurrences
+'cy23 21a squadron command': 1 occurrences
+'cy23 squadron command': 1 occurrences
+'cy23 sq cc': 1 occurrences
+'sq cc timeline': 1 occurrences
+'21a sq cc timeline': 1 occurrences
+'cy23 21a sq cc timeline': 1 occurrences
+'21a squadron command timeline': 1 occurrences
+'avolve ': 1 occurrences
+'unit training manager': 1 occurrences
+'good notes planner': 1 occurrences
+'3f2x1': 1 occurrences
+'3f2': 1 occurrences
+'unit training': 1 occurrences
+'cop': 1 occurrences
+'benefits ': 1 occurrences
+'under': 1 occurrences
+'persistent logistics': 1 occurrences
+'basing and logistics': 1 occurrences
+'enterprise strategy': 1 occurrences
+'munitions': 1 occurrences
+'strategic': 1 occurrences
+'#directfeedback': 1 occurrences
+'#df': 1 occurrences
+'dr. roper': 1 occurrences
+'model based': 1 occurrences
+'saf/aq': 1 occurrences
+'learning and development': 1 occurrences
+'ils-s': 1 occurrences
+'micap': 1 occurrences
+'high-priority': 1 occurrences
+'notifications': 1 occurrences
+'agile, scrum, devsecops, devops': 1 occurrences
+'agile values and principles': 1 occurrences
+'agile concepts, agile culture ': 1 occurrences
+'agile terms, agile, scrum ': 1 occurrences
+'scrum framework, agile methodology, scrum roles and responsibilities ': 1 occurrences
+'agile, scrum framework, sprint, sprint planning, user stories, scrum roles': 1 occurrences
+'reels': 1 occurrences
+'presence': 1 occurrences
+'space force info': 1 occurrences
+'space force flyer': 1 occurrences
+'ussf recruiting': 1 occurrences
+'introduction training': 1 occurrences
+'preservation': 1 occurrences
+'derivative classifiers': 1 occurrences
+'nato markings': 1 occurrences
+'security.': 1 occurrences
+'derivative classifications': 1 occurrences
+'21a barrier analysis': 1 occurrences
+'project charter template': 1 occurrences
+'mmm_book productionv9.pdf': 1 occurrences
+'fortiphyd': 1 occurrences
+'life-cycle': 1 occurrences
+'manage': 1 occurrences
+'scm': 1 occurrences
+'supplier': 1 occurrences
+'tdp': 1 occurrences
+'first article': 1 occurrences
+'fighter generation squadron': 1 occurrences
+'fgs': 1 occurrences
+'shaw': 1 occurrences
+'20 fw': 1 occurrences
+'20 mxg': 1 occurrences
+'influencers': 1 occurrences
+'high school presentation': 1 occurrences
+'ea': 1 occurrences
+'goldratt consulting ': 1 occurrences
+'commnad': 1 occurrences
+'pre-command': 1 occurrences
+'leading poeple': 1 occurrences
+'leading people': 1 occurrences
+'mission command': 1 occurrences
+'risk communication': 1 occurrences
+'boyd': 1 occurrences
+'afdp 1-1': 1 occurrences
+'officer training tracker': 1 occurrences
+'team-building': 1 occurrences
+'personality': 1 occurrences
+'experimentation': 1 occurrences
+'sae eia-649c,': 1 occurrences
+'geia-hb-6d49a': 1 occurrences
+'command ': 1 occurrences
+'commander skills': 1 occurrences
+'commander course': 1 occurrences
+'clean questions': 1 occurrences
+'sins of questions': 1 occurrences
+'communication techiques': 1 occurrences
+'sae-eia-649c': 1 occurrences
+'geai-hb-649': 1 occurrences
+'cm in mbse': 1 occurrences
+'statusing': 1 occurrences
+'aerospace reporting': 1 occurrences
+'drrs': 1 occurrences
+'emoc': 1 occurrences
+'reporting': 1 occurrences
+'afi21-103': 1 occurrences
+'accurate documentation': 1 occurrences
+'equipment inventory': 1 occurrences
+'status and utilization reporting': 1 occurrences
+'pro super': 1 occurrences
+'measure': 1 occurrences
+'organizational culture': 1 occurrences
+'uxd': 1 occurrences
+'ucd': 1 occurrences
+'system security cyber guidebook': 1 occurrences
+'sswg': 1 occurrences
+'system security working group': 1 occurrences
+'safety': 1 occurrences
+'discipline': 1 occurrences
+'united air lines': 1 occurrences
+'predictive maintenance': 1 occurrences
+'cbm+': 1 occurrences
+'condition based maintenance': 1 occurrences
+'innovative ': 1 occurrences
+'insight to industry': 1 occurrences
+'#education': 1 occurrences
+'#innovation': 1 occurrences
+'innovation intelligence': 1 occurrences
+'innovation management': 1 occurrences
+'innovations manager': 1 occurrences
+'adaptive acquisition framework': 1 occurrences
+'aaf': 1 occurrences
+'af ventures': 1 occurrences
+'contractor': 1 occurrences
+'non-traditional contractor': 1 occurrences
+'ga tech': 1 occurrences
+'georgia tech': 1 occurrences
+'non-traditional contractors': 1 occurrences
+'workplace psychology': 1 occurrences
+'incentivizing innovation': 1 occurrences
+'incentives': 1 occurrences
+'failure': 1 occurrences
+'celebrate failure': 1 occurrences
+'unstructured innovation': 1 occurrences
+'management processes': 1 occurrences
+'user experience': 1 occurrences
+'inovation': 1 occurrences
+'news letter': 1 occurrences
+'march': 1 occurrences
+'continued education': 1 occurrences
+'barrier analysis': 1 occurrences
+'da': 1 occurrences
+'eq': 1 occurrences
+'#ui/ux ': 1 occurrences
+'732': 1 occurrences
+'t&e': 1 occurrences
+'modeling and simulation': 1 occurrences
+'m&s': 1 occurrences
+'ot&e': 1 occurrences
+'operational test and evaluation': 1 occurrences
+'anchoring': 1 occurrences
+'cc': 1 occurrences
+'leadership course': 1 occurrences
+'haf 21x cc course': 1 occurrences
+'building a team': 1 occurrences
+'resources for command': 1 occurrences
+'psych safety': 1 occurrences
+'building culture': 1 occurrences
+'positive culture': 1 occurrences
+'command and culture': 1 occurrences
+'22c 21x course': 1 occurrences
+'haf command course': 1 occurrences
+'21x/cc course': 1 occurrences
+'command kick off brief': 1 occurrences
+'lt gen berry': 1 occurrences
+'berry's command leadership': 1 occurrences
+'leadership perspective': 1 occurrences
+'day 1': 1 occurrences
+'ei 2.0': 1 occurrences
+'emotionally effective leaders': 1 occurrences
+'21a command': 1 occurrences
+'21r command': 1 occurrences
+'21m command': 1 occurrences
+'aircraft maintenance command': 1 occurrences
+'21a sq/cc command': 1 occurrences
+'career field brief': 1 occurrences
+'21x sq/cc day 3': 1 occurrences
+'enlisted force distribution ': 1 occurrences
+'panel': 1 occurrences
+'22a': 1 occurrences
+'22b': 1 occurrences
+'enlisted development': 1 occurrences
+'continual education': 1 occurrences
+'education opportunities': 1 occurrences
+'newsletter': 1 occurrences
+'log 390': 1 occurrences
+'ldc': 1 occurrences
+'leadership development course': 1 occurrences
+'nps': 1 occurrences
+'net promoter score': 1 occurrences
+'mxg conference': 1 occurrences
+'gp': 1 occurrences
+'group commander': 1 occurrences
+'back to basics': 1 occurrences
+'program initiation': 1 occurrences
+'spend plan': 1 occurrences
+'technology readiness': 1 occurrences
+'tech readiness': 1 occurrences
+'trl': 1 occurrences
+'udm': 1 occurrences
+'risk identification statement': 1 occurrences
+'#21a': 1 occurrences
+'c-17': 1 occurrences
+'globemaster': 1 occurrences
+'crew chief': 1 occurrences
+'aircraft inspection': 1 occurrences
+'boeing': 1 occurrences
+'enroute': 1 occurrences
+'amc': 1 occurrences
+'air mobility command': 1 occurrences
+'t-tail': 1 occurrences
+'bpo': 1 occurrences
+'enlisted force development': 1 occurrences
+'enlisted professional development': 1 occurrences
+'blueprint': 1 occurrences
+'air force organizational structure': 1 occurrences
+'air force majcoms': 1 occurrences
+'geographic combatant commands': 1 occurrences
+'functional combatant commands': 1 occurrences
+'foundational competencies': 1 occurrences
+'engineering; defense systems; acat; acquisition': 1 occurrences
+'482': 1 occurrences
+'module1': 1 occurrences
+'reading assignment': 1 occurrences
+'persistent mission generation': 1 occurrences
+'basing and logistics enterprise strategy': 1 occurrences
+'#userstories': 1 occurrences
+'user stories': 1 occurrences
+'#definitionofready': 1 occurrences
+'definition of ready': 1 occurrences
+'#acceptancecriteria': 1 occurrences
+'acceptance criteria': 1 occurrences
+'horizontal slicing': 1 occurrences
+'vertical slicing': 1 occurrences
+'slicing': 1 occurrences
+'discovery phase': 1 occurrences
+'#discoveryphase': 1 occurrences
+'#ux': 1 occurrences
+'#uxdesigner': 1 occurrences
+'agile discovery': 1 occurrences
+'#avolveteam': 1 occurrences
+'rami goldratt': 1 occurrences
+'mountain home': 1 occurrences
+'vicious cycle': 1 occurrences
+'4 lrs': 1 occurrences
+'vehicle maintenance ': 1 occurrences
+'flip': 1 occurrences
+'tech transition': 1 occurrences
+'vc': 1 occurrences
+'investing': 1 occurrences
+'transitioning': 1 occurrences
+'installation deployment readiness center': 1 occurrences
+'48 lrs ': 1 occurrences
+'randolph afb': 1 occurrences
+'12 mxg': 1 occurrences
+'amn4life': 1 occurrences
+'health of fleet': 1 occurrences
+'health of force': 1 occurrences
+'delta airlines': 1 occurrences
+'how to toc': 1 occurrences
+'relief from command': 1 occurrences
+'removed commanders': 1 occurrences
+'lessons learned': 1 occurrences
+'categorize': 1 occurrences
+'#dailyplan': 1 occurrences
+'space sytem': 1 occurrences
+'program documents': 1 occurrences
+'summit 2022': 1 occurrences
+'randolph': 1 occurrences
+'lrs': 1 occurrences
+'lakenheath': 1 occurrences
+'48th': 1 occurrences
+'keynote': 1 occurrences
+'key note': 1 occurrences
+'a4': 1 occurrences
+'leadership panel': 1 occurrences
+' #lcbp': 1 occurrences
+'acidrain': 1 occurrences
+'sentinelone': 1 occurrences
+'zuorat': 1 occurrences
+'snco all call': 1 occurrences
+'1d7 migration': 1 occurrences
+'phase ii': 1 occurrences
+'1d7 cfm team': 1 occurrences
+'1d7 transition recap': 1 occurrences
+'1d7xx': 1 occurrences
+'career field management team': 1 occurrences
+'1d7 transition': 1 occurrences
+'cyber training': 1 occurrences
+'ukraine war': 1 occurrences
+'agile, devops': 1 occurrences
+'summer dt ': 1 occurrences
+'afpc contacts': 1 occurrences
+'human systems integration': 1 occurrences
+'derived requirements': 1 occurrences
+'soi': 1 occurrences
+'open systems': 1 occurrences
+'armament': 1 occurrences
+'mission systems': 1 occurrences
+'open archtiecture': 1 occurrences
+'space systems': 1 occurrences
+'solution architecture': 1 occurrences
+'amls': 1 occurrences
+'maintenance summit': 1 occurrences
+'aircraft maintenance summit': 1 occurrences
+'rfp': 1 occurrences
+'request for proposal': 1 occurrences
+'mra': 1 occurrences
+'logisitics': 1 occurrences
+'sq/cc ': 1 occurrences
+'medical student': 1 occurrences
+'residency': 1 occurrences
+'medical corps': 1 occurrences
+'scholarship': 1 occurrences
+'gme': 1 occurrences
+'risk assessment': 1 occurrences
+'programmatic plans': 1 occurrences
+'financial mgt': 1 occurrences
+'operational readiness': 1 occurrences
+'21a education': 1 occurrences
+'21a training': 1 occurrences
+'side channel analysis': 1 occurrences
+'sca': 1 occurrences
+'mobile attacks': 1 occurrences
+'smart phone security': 1 occurrences
+'spacex': 1 occurrences
+'starlink': 1 occurrences
+'oneweb': 1 occurrences
+'terra': 1 occurrences
+'landsat-7': 1 occurrences
+'training\': 1 occurrences
+'#class22e': 1 occurrences
+'#squadroncommandercourse': 1 occurrences
+'sq command': 1 occurrences
+'fd': 1 occurrences
+'21a officer development': 1 occurrences
+'haf commander course': 1 occurrences
+'contract award': 1 occurrences
+'proposal requirements': 1 occurrences
+'enlisted promotions': 1 occurrences
+'reference guide': 1 occurrences
+'enlisted force distribution panel': 1 occurrences
+'enlisted force distribution': 1 occurrences
+'tsgt ': 1 occurrences
+'fd ': 1 occurrences
+'collaboration': 1 occurrences
+'modular open systems architecture': 1 occurrences
+'architectures': 1 occurrences
+'gras': 1 occurrences
+'open mission systems': 1 occurrences
+'open architecture standards': 1 occurrences
+'talent marketplace': 1 occurrences
+'tm': 1 occurrences
+'tm user guide': 1 occurrences
+'talent marketplace user guide': 1 occurrences
+'maintenance academics': 1 occurrences
+'tinker afb': 1 occurrences
+'oc-alc': 1 occurrences
+'wr-alc': 1 occurrences
+'edmx': 1 occurrences
+'abdr': 1 occurrences
+'battle damage repair': 1 occurrences
+'mission defense teams': 1 occurrences
+'#logrsummit #logr #thesummit #21r #lro #logisticsreadiness': 1 occurrences
+'#logrsummit #lro #logisticsreadiness #thesummit ': 1 occurrences
+'#logrsummit #logisticsreadiness #lro #21r #thesummit': 1 occurrences
+'#cota #cfmontheair #21r #lro #loggie #logr': 1 occurrences
+'freedom of information': 1 occurrences
+'21a twas': 1 occurrences
+'aircraft maintennce': 1 occurrences
+'#msproject': 1 occurrences
+'work': 1 occurrences
+'remote': 1 occurrences
+'lifelong learning': 1 occurrences
+'future of work': 1 occurrences
+'space force acquisitions': 1 occurrences
+'extended reality': 1 occurrences
+'remote work': 1 occurrences
+'diversity and inclusion': 1 occurrences
+'executive orders': 1 occurrences
+'goldwater-nichols': 1 occurrences
+'dod organization': 1 occurrences
+'defense organization': 1 occurrences
+'defense reorganization': 1 occurrences
+'chain of command': 1 occurrences
+'joint chiefs of staff': 1 occurrences
+'secretary of defense': 1 occurrences
+'personnel management': 1 occurrences
+'documents': 1 occurrences
+'fisa': 1 occurrences
+'foreign intelligence and surveillance act': 1 occurrences
+'foreign intelligence and surveillance': 1 occurrences
+'military operations': 1 occurrences
+'jpoe': 1 occurrences
+'classification': 1 occurrences
+'classification guidance': 1 occurrences
+'capco': 1 occurrences
+'register and manual': 1 occurrences
+'masint': 1 occurrences
+'measurement and signature intelligence': 1 occurrences
+'ci': 1 occurrences
+' open source': 1 occurrences
+' osint': 1 occurrences
+' intelligence community': 1 occurrences
+' ic': 1 occurrences
+'open source intelligence': 1 occurrences
+'intelligence directive': 1 occurrences
+'modular open systems approach': 1 occurrences
+'government reference architectures': 1 occurrences
+'#lcbp ': 1 occurrences
+'#lcbpalumni ': 1 occurrences
+'icd 203': 1 occurrences
+'analytic tradecraft standards': 1 occurrences
+'icd 206': 1 occurrences
+'sourcing requirements': 1 occurrences
+'analytic production': 1 occurrences
+'human intelligence': 1 occurrences
+'humint': 1 occurrences
+'collection standards': 1 occurrences
+'icd 304': 1 occurrences
+'icd 208': 1 occurrences
+'intelligence dissemination': 1 occurrences
+'dissemination': 1 occurrences
+'intelligence writing': 1 occurrences
+'production standards': 1 occurrences
+'#21xdt #21r #lro #dt #developmenteam': 1 occurrences
+'#hold #lro #21r #loggie #hookedonlogisticsdevelopment #logr #logisticsreadiness': 1 occurrences
+'organizational objectives': 1 occurrences
+'inputs, processes, outputs (ipo)': 1 occurrences
+'sys 208': 1 occurrences
+'sys 118': 1 occurrences
+'project risk management': 1 occurrences
+'risk reduction': 1 occurrences
+'mentoring resources': 1 occurrences
+'way to connect': 1 occurrences
+'design ': 1 occurrences
+'navalx': 1 occurrences
+'caw': 1 occurrences
+'vr': 1 occurrences
+'ar': 1 occurrences
+'mr': 1 occurrences
+'xr': 1 occurrences
+'vrtraining': 1 occurrences
+'counterterrorism': 1 occurrences
+'terrorism prevention': 1 occurrences
+'intelligence reform': 1 occurrences
+'irtpa': 1 occurrences
+'congressional acts': 1 occurrences
+'ethical machine learning': 1 occurrences
+'bias in artificial intelligence': 1 occurrences
+'analytic writing': 1 occurrences
+'intelligence job aid': 1 occurrences
+'writing aid': 1 occurrences
+'rating scale': 1 occurrences
+'odni rating scale': 1 occurrences
+'evaluating': 1 occurrences
+'enhancing alternative analysis': 1 occurrences
+'alternative analysis': 1 occurrences
+'digital engineering ': 1 occurrences
+'fine': 1 occurrences
+'key': 1 occurrences
+'multiple word': 1 occurrences
+'words': 1 occurrences
+'commercial-off-the-shelf': 1 occurrences
+'digital badges': 1 occurrences
+'talent management ': 1 occurrences
+'smart homes': 1 occurrences
+'network defense': 1 occurrences
+'setrs': 1 occurrences
+'heuer': 1 occurrences
+'psychology of intelligence analysis': 1 occurrences
+'sherman kent': 1 occurrences
+'thinking fast and slow': 1 occurrences
+'heueristics': 1 occurrences
+'kahneman': 1 occurrences
+'aircraft maintenance officer': 1 occurrences
+'21a professional development': 1 occurrences
+'program execution': 1 occurrences
+'request for information': 1 occurrences
+'ethics in intelligence': 1 occurrences
+'conduct': 1 occurrences
+'accountability': 1 occurrences
+'style manual': 1 occurrences
+'dia style manual': 1 occurrences
+'cold boot attack': 1 occurrences
+'total memory encryption': 1 occurrences
+'tme': 1 occurrences
+'memory encryption': 1 occurrences
+'#lro #21r #logisticsreadiness #seacafoi ': 1 occurrences
+'#lro #21r #cota #cfmontheair #logisticsreadiness #logr': 1 occurrences
+'ifpc': 1 occurrences
+'intelligence fundamentals professional certification': 1 occurrences
+'basics of intelligence learn path': 1 occurrences
+'#cota #cfmontheair #21r #lro #logreadiness #logisticsreadiness': 1 occurrences
+'cdasa-1': 1 occurrences
+'21x winter dt': 1 occurrences
+'21x dt outbrief winter 2022': 1 occurrences
+'winter dt outbrief': 1 occurrences
+'21x force development': 1 occurrences
+'21a ': 1 occurrences
+'21x dt outbrief winter': 1 occurrences
+'winter dt 2022': 1 occurrences
+'monte-carlo': 1 occurrences
+'reliability': 1 occurrences
+'risk and requirements collaboration': 1 occurrences
+'rfi': 1 occurrences
+'release for information': 1 occurrences
+'descriptive systems model': 1 occurrences
+'wksp732': 1 occurrences
+'wksp 732': 1 occurrences
+'thesis': 1 occurrences
+'ncam': 1 occurrences
+'afsim': 1 occurrences
+'wksp0696': 1 occurrences
+'critical design review': 1 occurrences
+'cyberattacks ': 1 occurrences
+'fireside chat video': 1 occurrences
+'21a dt reps': 1 occurrences
+'masters unmasking': 1 occurrences
+'cfb': 1 occurrences
+'mytraining': 1 occurrences
+'de process': 1 occurrences
+'21a winter dt': 1 occurrences
+'force develpment': 1 occurrences
+'structured analytic technique': 1 occurrences
+'intelligence life cycle': 1 occurrences
+'analytic standards for intelligence': 1 occurrences
+'intelligence question': 1 occurrences
+'hypothesis development': 1 occurrences
+'intelligence questions': 1 occurrences
+'national intelligence strategy': 1 occurrences
+'nis': 1 occurrences
+'dni': 1 occurrences
+'intelligence objectives': 1 occurrences
+'mission objectives': 1 occurrences
+'director of national intelligence': 1 occurrences
+'office of the director of national intelligence': 1 occurrences
+'#lro #logr #logisticsreadiness #aad #promotion #logistics': 1 occurrences
+'writing': 1 occurrences
+'writing skills': 1 occurrences
+'key assumptions': 1 occurrences
+'key assumptions check': 1 occurrences
+'assumptions': 1 occurrences
+'identifying assumptions': 1 occurrences
+'sat': 1 occurrences
+'intelligence gaps': 1 occurrences
+'information gaps': 1 occurrences
+'intelligence oversight': 1 occurrences
+'ic oversight': 1 occurrences
+'ic ethics': 1 occurrences
+'intelligence community ethics': 1 occurrences
+'ic transparency': 1 occurrences
+'intelligence community transparency': 1 occurrences
+'assessments': 1 occurrences
+'intelligence assessments': 1 occurrences
+'hypothesis generation': 1 occurrences
+'legal guidelines': 1 occurrences
+'legal guidance': 1 occurrences
+'history of the ic': 1 occurrences
+'history of the intelligence community': 1 occurrences
+'military intelligence': 1 occurrences
+'dia': 1 occurrences
+'defense intelligence agency': 1 occurrences
+'defense intelligence analysis program': 1 occurrences
+'diap': 1 occurrences
+'directorate of analysis': 1 occurrences
+'die': 1 occurrences
+'intelligence resources': 1 occurrences
+'unity of effort': 1 occurrences
+'management structure': 1 occurrences
+'intelligence agency': 1 occurrences
+'intelligence agencies': 1 occurrences
+'ic structure': 1 occurrences
+'intelligence community structure': 1 occurrences
+'organizations of the intelligence community': 1 occurrences
+'intelligence methods': 1 occurrences
+'intelligence collections': 1 occurrences
+'analytic tradecraft for intelligence': 1 occurrences
+'cognition': 1 occurrences
+'critical thinking skills': 1 occurrences
+'analytic skills': 1 occurrences
+'avoiding biases': 1 occurrences
+'argument map': 1 occurrences
+'argument mapping': 1 occurrences
+'confidence levels': 1 occurrences
+'digital skills': 1 occurrences
+'product data': 1 occurrences
+'model based engineering': 1 occurrences
+'digital thread': 1 occurrences
+'fms': 1 occurrences
+'value': 1 occurrences
+'life cycle sustainment': 1 occurrences
+'fielding': 1 occurrences
+'capability': 1 occurrences
+'integrated life cycle management': 1 occurrences
+'tailoring': 1 occurrences
+'diminishing sources': 1 occurrences
+'independent technical risk assessment': 1 occurrences
+'human system interfaces': 1 occurrences
+'evm': 1 occurrences
+'mda': 1 occurrences
+'mdd': 1 occurrences
+'#cdb #21r #lro #loggie #lognation': 1 occurrences
+'oprep': 1 occurrences
+'cyber incident': 1 occurrences
+'beeline': 1 occurrences
+'brian urlacher': 1 occurrences
+'cost ': 1 occurrences
+'cost analytics': 1 occurrences
+'finance': 1 occurrences
+'sosa': 1 occurrences
+'face': 1 occurrences
+'future airborne': 1 occurrences
+'countering bias': 1 occurrences
+'cognitive bias': 1 occurrences
+'cognitive biases': 1 occurrences
+'analytic methodology': 1 occurrences
+'heuristics': 1 occurrences
+'leadership in intelligence': 1 occurrences
+'cyber table top': 1 occurrences
+'cyber training range': 1 occurrences
+'knowledge assessment': 1 occurrences
+'acquisition transformation': 1 occurrences
+'frank kendall': 1 occurrences
+'cybersecuirty maturity model': 1 occurrences
+'maturity model': 1 occurrences
+'cmmc accreditation': 1 occurrences
+'cm; collection management; dcm; defense collection manager; intelligence collection': 1 occurrences
+'deep layer training': 1 occurrences
+'cnn': 1 occurrences
+'sar atr': 1 occurrences
+'alpha blending': 1 occurrences
+'aconvnet': 1 occurrences
+'sample': 1 occurrences
+'mstar': 1 occurrences
+'ai/ml': 1 occurrences
+'#lro #logisticsreadiness #commander #command #21r #logr #commandprepcourse': 1 occurrences
+'#nealwiley': 1 occurrences
+'#hold #hookedonlogisticsdevelopment #lro #21r #logr #logreadiness #loggie #twas #cota ': 1 occurrences
+'design reviews': 1 occurrences
+'design review': 1 occurrences
+'opencaesar': 1 occurrences
+'21a direct feedback': 1 occurrences
+'21a df': 1 occurrences
+'21a feedback': 1 occurrences
+'learnecke': 1 occurrences
+'aced': 1 occurrences
+'jado': 1 occurrences
+'ssecg ': 1 occurrences
+'system security engineering cyber guidebook ': 1 occurrences
+'system security engineering ': 1 occurrences
+'crows ': 1 occurrences
+'iatt': 1 occurrences
+'ato': 1 occurrences
+'operation and support': 1 occurrences
+'cissp': 1 occurrences
+'unified architecture framework': 1 occurrences
+'uaf': 1 occurrences
+'architecture framework': 1 occurrences
+'dodaf': 1 occurrences
+'hm': 1 occurrences
+'hazardous materials': 1 occurrences
+'hazmat': 1 occurrences
+'gpc': 1 occurrences
+'toxins': 1 occurrences
+'toxic materials': 1 occurrences
+'lead based paint': 1 occurrences
+'asbestos': 1 occurrences
+'pcbs': 1 occurrences
+'prpgram protection': 1 occurrences
+'knowledge graph': 1 occurrences
+'matlab': 1 occurrences
+'lifecycle management': 1 occurrences
+'package': 1 occurrences
+'package diagram': 1 occurrences
+'technical leadership': 1 occurrences
+'leadership evaluation': 1 occurrences
+'use case': 1 occurrences
+'block': 1 occurrences
+'internal block': 1 occurrences
+'activity': 1 occurrences
+'state machine': 1 occurrences
+'sequence': 1 occurrences
+'parametric': 1 occurrences
+'decision management': 1 occurrences
+'#21r #lro #cota #cfmontheair #logisticsreadiness #loggie #opr #casi': 1 occurrences
+'tool': 1 occurrences
+'trade studies': 1 occurrences
+'rollup': 1 occurrences
+'digital ': 1 occurrences
+'technology; security; technological advantage; lead systems engineers': 1 occurrences
+'aetc': 1 occurrences
+'oprs': 1 occurrences
+'bonuses': 1 occurrences
+'recruitment': 1 occurrences
+'short tour': 1 occurrences
+'slido': 1 occurrences
+'discussion': 1 occurrences
+'command cut line': 1 occurrences
+'msbe': 1 occurrences
+'dtsa': 1 occurrences
+'process optimization': 1 occurrences
+'dcma': 1 occurrences
+'iwms': 1 occurrences
+'space architecture': 1 occurrences
+'mau': 1 occurrences
+'stakeholder analysis': 1 occurrences
+'afforgen': 1 occurrences
+'dsm': 1 occurrences
+'kano model': 1 occurrences
+'human performance modeling': 1 occurrences
+'mil-std-1553': 1 occurrences
+'responsible ai': 1 occurrences
+'aircraft availability': 1 occurrences
+'cam': 1 occurrences
+'roccr': 1 occurrences
+'sweg': 1 occurrences
+'alc': 1 occurrences
+'air force materiel command': 1 occurrences
+'supply chain management ': 1 occurrences
+'depot ': 1 occurrences
+'supply risk': 1 occurrences
+'national security': 1 occurrences
+'joint task force': 1 occurrences
+'jtf': 1 occurrences
+'j-2': 1 occurrences
+'njoic': 1 occurrences
+'crisis response': 1 occurrences
+'national intelligence support': 1 occurrences
+'usstratcom': 1 occurrences
+'intelligence federation': 1 occurrences
+'information network': 1 occurrences
+'dodin': 1 occurrences
+'communications infrastructure': 1 occurrences
+'jioc': 1 occurrences
+'joint staff': 1 occurrences
+'intelligence organization': 1 occurrences
+'intelligence responsibilities': 1 occurrences
+'intelligence requirements': 1 occurrences
+'collection management': 1 occurrences
+'joint force': 1 occurrences
+'for pa. approval': 1 occurrences
+'for pa approval': 1 occurrences
+'acquisition innovation': 1 occurrences
+'asoc': 1 occurrences
+'intelligence leadership': 1 occurrences
+'leadership structure': 1 occurrences
+'threat assessments': 1 occurrences
+'national intelligence support plan': 1 occurrences
+'nisp': 1 occurrences
+'summer dt': 1 occurrences
+'betterup ': 1 occurrences
+'lcbp academics': 1 occurrences
+'summer dt 2023': 1 occurrences
+'lcbp sustainment academics': 1 occurrences
+'adobe photoshop': 1 occurrences
+'air force logistics officer school': 1 occurrences
+'aflos courses': 1 occurrences
+'21x courses': 1 occurrences
+'amoc bridge': 1 occurrences
+'mofc': 1 occurrences
+'nmoc': 1 occurrences
+'cmoc': 1 occurrences
+'imoc': 1 occurrences
+'nac': 1 occurrences
+'nicmoic': 1 occurrences
+'nic-moic': 1 occurrences
+'lroc': 1 occurrences
+'ilroc': 1 occurrences
+'logistics officer orientation program': 1 occurrences
+'bloom's taxonomy': 1 occurrences
+'21r cfetp': 1 occurrences
+'aflos contacts': 1 occurrences
+'network topology': 1 occurrences
+'introduction to network topology': 1 occurrences
+'private ip': 1 occurrences
+'public ip': 1 occurrences
+'binary': 1 occurrences
+'em theory': 1 occurrences
+'electromagnetic theory': 1 occurrences
+'waves': 1 occurrences
+'pulse': 1 occurrences
+'ccp': 1 occurrences
+'china dream': 1 occurrences
+'mandarin': 1 occurrences
+'roll axis': 1 occurrences
+'elevators': 1 occurrences
+'aileron': 1 occurrences
+'rudders': 1 occurrences
+'flap': 1 occurrences
+'leading edge slats': 1 occurrences
+'secondary flight controls': 1 occurrences
+'primary flight controls': 1 occurrences
+'variable geometry wings': 1 occurrences
+'helicopter': 1 occurrences
+'flight': 1 occurrences
+'flight controls': 1 occurrences
+'rotor systems': 1 occurrences
+'flight conditions': 1 occurrences
+'collective pitch': 1 occurrences
+'cylic': 1 occurrences
+'thrust': 1 occurrences
+'drag': 1 occurrences
+'air pressure': 1 occurrences
+'fuselage': 1 occurrences
+'fighter': 1 occurrences
+'airliner': 1 occurrences
+'turbofan': 1 occurrences
+'engine parts': 1 occurrences
+'compressor': 1 occurrences
+'afterburner': 1 occurrences
+'vectored thrust': 1 occurrences
+'turboprop': 1 occurrences
+'propellers': 1 occurrences
+'pitch': 1 occurrences
+'feathering': 1 occurrences
+'adobe audition': 1 occurrences
+'officer force development': 1 occurrences
+'21a certification': 1 occurrences
+'adobe character animator ': 1 occurrences
+'stock video': 1 occurrences
+'stock photos': 1 occurrences
+'photos': 1 occurrences
+'government acquisition activities': 1 occurrences
+'aircraft maintenace officer': 1 occurrences
+'21a officer assignment team': 1 occurrences
+'career broadening': 1 occurrences
+'oi&rsd': 1 occurrences
+'aad/speed': 1 occurrences
+'overseas tour waiver': 1 occurrences
+'vml': 1 occurrences
+'pcs': 1 occurrences
