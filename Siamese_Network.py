@@ -7,19 +7,40 @@ from tensorflow_hub import load
 import graphviz
 import pydot
 import random
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Dense, Dropout, Layer
 import tensorflow.keras.losses
 import tensorflow_similarity as tfsim
 from keras.utils import plot_model
 from tensorflow.keras.preprocessing.text import Tokenizer
+from sklearn.metrics import confusion_matrix
+from tensorflow.keras.models import load_model
 
 Data_location = "/remote_home/AML/CSCE_823_Project/Data"
 testFileName = "test_df.xlsx"
 trainingFileName = "training_df.xlsx"
 validationFileName = "validation_df.xlsx"
+anchorDataFileName = "anchor_data_df_processed.xlsx"
 
 model_path = "AML/CSCE_823_Project/Models"
+model_name = "siamese_model.h5"
+figure_path = "AML/CSCE_823_Project/Figures"
+
+def plot_confusion_matrix(y_true, y_pred, save_location=None, figure_name=None, normalize=False):
+    conf_matrix = confusion_matrix(y_true, y_pred, normalize='true' if normalize else None)
+    
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(conf_matrix, annot=True, fmt='.2f' if normalize else 'd', cmap='Blues', xticklabels=['Negative', 'Positive'], yticklabels=['Negative', 'Positive'])
+    plt.xlabel('Predicted')
+    plt.ylabel('True')
+    plt.title('Confusion Matrix')
+    
+    if save_location and figure_name:
+        plt.savefig(f'{save_location}/{figure_name}.png', dpi=300, bbox_inches='tight')
+    
+    plt.show()
 
 def read_excel_file(file_path, file_name, sheet_name=0):
     # Combine the file path and file name
@@ -33,36 +54,44 @@ def read_excel_file(file_path, file_name, sheet_name=0):
 test_df = read_excel_file(Data_location, testFileName)
 training_df = read_excel_file(Data_location, trainingFileName)
 validation_df = read_excel_file(Data_location, validationFileName)
+anchor_df = read_excel_file(Data_location, anchorDataFileName)
 
-# Function to convert a list of words to a sentence
-def words_to_sentence(words_list):
-    return ' '.join(words_list)
+#Now the three databases have been read in, it is time to transfer the description column into The Univesal Sentence Encoder
 
-# Convert lists of words to full sentences
-training_df['full_description'] = training_df['description'].apply(words_to_sentence)
+def process_description_to_embeddings(dataframe, columnName):
+  # Process description into UTE
+  # Function to convert a list of words to a sentence
+  def words_to_sentence(words_list):
+      return ' '.join(words_list)
 
-# # Load the Universal Sentence Encoder
-universal_sentence_encoder = load('https://tfhub.dev/google/universal-sentence-encoder/4')
+  # Convert lists of words to full sentences
+  dataframe['full_description'] = dataframe[columnName].apply(words_to_sentence)
 
-# Function to encode sentences using the Universal Sentence Encoder
-def encode_sentences(sentence):
-    embeddings = universal_sentence_encoder([sentence])
-    return embeddings
+  # # Load the Universal Sentence Encoder
+  universal_sentence_encoder = load('https://tfhub.dev/google/universal-sentence-encoder/4')
 
-# Apply the encoding function to the 'full_description' column
-training_df['embeddings'] = training_df['full_description'].apply(encode_sentences)
+  # Function to encode sentences using the Universal Sentence Encoder
+  def encode_sentences(sentence):
+      embeddings = universal_sentence_encoder([sentence])
+      return embeddings
 
+  # Apply the encoding function to the 'full_description' column
+  dataframe['embeddings'] = dataframe['full_description'].apply(encode_sentences)
 
-#break training_df into numpy arrays
-# Convert 'cyber' column to numpy array
-labels = training_df['cyber'].to_numpy()
+  return dataframe
 
-# Convert 'embeddings' column to numpy array
-embeddings = np.stack(training_df['embeddings'])
+training_df = process_description_to_embeddings(training_df, 'description')
+training_embeddings = np.stack(training_df['embeddings'])
 
-# Split data into positive and negative indices
-positive_indices = np.where(labels == 1)[0]
-negative_indices = np.where(labels == 0)[0]
+def get_positive_negative_indices(column_name, dataframe):
+    labels = dataframe[column_name].to_numpy()
+    positive_indices = np.where(labels == 1)[0]
+    negative_indices = np.where(labels == 0)[0]
+    return positive_indices, negative_indices
+
+# Get the positive and negative indices for the training set
+column_name = 'cyber'
+positive_indices, negative_indices = get_positive_negative_indices(column_name, training_df)
 
 # def triplet_semihard_loss(anchor, positive, negative, margin=1.0):
 #     # Ensure anchor and positive have the same shape
@@ -89,52 +118,120 @@ def triplet_loss_wrapper(y_true, y_pred):
     # Assuming y_true is not used in this loss function
     return tf.reduce_mean(triplet_semihard_loss(y_pred[0], y_pred[1], y_pred[2]))
 
-# Create the basic triplet loss model 
-# Create the anchor input
-anchor_input = Input(shape=(512,))
-positive_input = Input(shape=(512,))
-negative_input = Input(shape=(512,))
+model = None
+train_model = False
 
-# Create the embedding layer
-embedding_layer = Dense(512)
+if train_model:
+  # Create the basic triplet loss model 
+  # Create the anchor input
+  anchor_input = Input(shape=(512,))
+  positive_input = Input(shape=(512,))
+  negative_input = Input(shape=(512,))
 
-# Create hidden layer
-#hidden_layer = Dense(128, activation = 'relu')
+  # Create the embedding layer
+  embedding_layer = Dense(512)
 
-# Encode the anchor, positive, and negative inputs
-anchor_embedding = embedding_layer(anchor_input)
-#anchor_embedding = hidden_layer(anchor_embedding)
-positive_embedding = embedding_layer(positive_input)
-#positive_embedding = hidden_layer(positive_embedding)
-negative_embedding = embedding_layer(negative_input)
-#negative_embedding = hidden_layer(negative_embedding)
+  # Encode the anchor, positive, and negative inputs
+  anchor_embedding = embedding_layer(anchor_input)
+  positive_embedding = embedding_layer(positive_input)
+  negative_embedding = embedding_layer(negative_input)
 
-# Calculate the triplet loss
-loss = triplet_loss_wrapper(None, [anchor_embedding, positive_embedding, negative_embedding])
+  # Calculate the triplet loss
+  loss = triplet_loss_wrapper(None, [anchor_embedding, positive_embedding, negative_embedding])
 
-#print(model.summary())
+  #print(model.summary())
 
-# Calculate the triplet loss
-model_output = {'loss': triplet_semihard_loss(anchor_embedding, positive_embedding, negative_embedding)}
+  # Calculate the triplet loss
+  model_output = {'loss': triplet_semihard_loss(anchor_embedding, positive_embedding, negative_embedding)}
 
-# Create the model
-model = Model(inputs=[anchor_input, positive_input, negative_input], outputs=model_output)
-model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=0.01), loss=triplet_loss_wrapper)
+  # Create the model
+  model = Model(inputs=[anchor_input, positive_input, negative_input], outputs=model_output)
+  model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=0.01), loss=triplet_loss_wrapper)
 
-# Define batch size and number of epochs
-batch_size = 32
-num_epochs = 100
+  # Define batch size and number of epochs
+  batch_size = 32
+  num_epochs = 100
 
-# Create data generators for training
-def generate_triplets(anchor_indices, positive_indices, negative_indices, batch_size):
-    while True:
-        batch_anchor = np.random.choice(anchor_indices, batch_size)
-        batch_positive = np.random.choice(positive_indices, batch_size)
-        batch_negative = np.random.choice(negative_indices, batch_size)
-        
-        yield [embeddings[batch_anchor], embeddings[batch_positive], embeddings[batch_negative]], np.zeros((batch_size,))
+  # Create data generators for training
+  def generate_triplets(anchor_indices, positive_indices, negative_indices, batch_size):
+      while True:
+          batch_anchor = np.random.choice(anchor_indices, batch_size)
+          batch_positive = np.random.choice(positive_indices, batch_size)
+          batch_negative = np.random.choice(negative_indices, batch_size)
+          
+          yield [training_embeddings[batch_anchor], training_embeddings[batch_positive], training_embeddings[batch_negative]], np.zeros((batch_size,))
 
-# Train the model
-train_generator = generate_triplets(positive_indices, positive_indices, negative_indices, batch_size)
+  # Train the model
+  train_generator = generate_triplets(positive_indices, positive_indices, negative_indices, batch_size)
 
-model.fit(train_generator, steps_per_epoch=len(positive_indices) // batch_size, epochs=num_epochs)
+  model.fit(train_generator, steps_per_epoch=len(positive_indices) // batch_size, epochs=num_epochs)
+
+  model.save(f'{model_path}/{model_name}')
+
+else:
+  model = load_model(f'{model_path}/{model_name}', custom_objects={'triplet_loss_wrapper': triplet_loss_wrapper})
+
+#Next validate the model
+#Get the validation embeddings
+validation_df = process_description_to_embeddings(validation_df, 'description')
+validation_embeddings = np.stack(validation_df['embeddings'])
+validation_embeddings = validation_embeddings.reshape(-1, validation_embeddings.shape[-1])
+
+#Get the anchor embeddings
+anchor_df = process_description_to_embeddings(anchor_df, 'description')
+anchor_embeddings = np.stack(anchor_df['embeddings'])
+
+column_name = 'risk analysis'
+
+anchor = anchor_df[anchor_df[column_name]==1]['embeddings'].iloc[0].numpy()
+
+#Get the positive and negative indices for the validation set
+val_pos_indices, val_neg_indices = get_positive_negative_indices(column_name, validation_df)
+
+#duplicate the anchor to match the batch size
+num_samples = len(validation_embeddings)
+anchor_embeddings = np.tile(anchor, (num_samples, 1))
+
+#Get prediction from the model
+prediction = model.predict([anchor_embeddings, validation_embeddings, validation_embeddings])
+
+# Extract embeddings from the dictionary
+predicted_values = prediction['loss'].values.numpy()
+
+val_pos_indices, val_neg_indices = get_positive_negative_indices(column_name, validation_df)
+
+# Iterate through positive indices and print similarity scores to the anchor
+print("Positive Examples:")
+for idx, val_pos_idx in enumerate(val_pos_indices):
+    pos_similarity_score = predicted_values[val_pos_idx]
+    print(f"Positive Pair {idx+1} - Positive Similarity Score: {pos_similarity_score:.4f}")
+
+# Iterate through negative indices and print similarity scores to the anchor
+print("\nNegative Examples:")
+for idx, val_neg_idx in enumerate(val_neg_indices):
+    neg_similarity_score = predicted_values[val_neg_idx]
+    print(f"Negative Pair {idx+1} - Negative Similarity Score: {neg_similarity_score:.4f}")
+
+# Create lists to store true labels and predicted labels
+true_labels = []
+predicted_labels = []
+
+threshold = 1.0
+
+# Iterate through the positive indices and classify pairs
+for val_pos_idx in val_pos_indices:
+    true_labels.append(1)  # Positive label
+    pos_similarity_score = predicted_values[val_pos_idx]
+    predicted_labels.append(1 if pos_similarity_score >= threshold else 0)
+
+# Iterate through the negative indices and classify pairs
+for val_neg_idx in val_neg_indices:
+    true_labels.append(0)  # Negative label
+    neg_similarity_score = predicted_values[val_neg_idx]
+    predicted_labels.append(1 if neg_similarity_score >= threshold else 0)
+
+# Plot the confusion matrix
+plot_confusion_matrix(true_labels, predicted_labels, normalize=False, figure_name = column_name, save_location=figure_path)
+
+
+# plot_confusion_matrix(true_labels, all_predictions, save_location=figure_path, figure_name = 'Risk_Identification_Validation', normalize=False)
