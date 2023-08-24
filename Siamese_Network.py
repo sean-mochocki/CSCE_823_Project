@@ -7,12 +7,13 @@ from tensorflow_hub import load
 from keras.utils.vis_utils import plot_model
 #from tensorflow.keras.utils import plot_model
 
+from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
 import pydot
 import random
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
 from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Input, Dense, Dropout, Layer
+from tensorflow.keras.layers import Input, Dense, Dropout, Layer, BatchNormalization
 import tensorflow.keras.losses
 #import tensorflow_similarity as tfsim
 from tensorflow.keras.preprocessing.text import Tokenizer
@@ -118,66 +119,157 @@ def get_positive_negative_indices(column_name, dataframe):
 #     return loss
 
 # Try the code with squared distances
-def triplet_semihard_loss(anchor, positive, negative, margin=1.0):
-    # Ensure anchor and positive have the same shape
-    anchor = tf.expand_dims(anchor, axis=1)
-    positive = tf.expand_dims(positive, axis=1)
+# def triplet_semihard_loss(anchor, positive, negative, margin=1.0):
+#     # Ensure anchor and positive have the same shape
+#     anchor = tf.expand_dims(anchor, axis=1)
+#     positive = tf.expand_dims(positive, axis=1)
     
-    squared_distances = tf.reduce_sum(tf.square(anchor - positive), axis=2)
-    squared_negative_distances = tf.reduce_sum(tf.square(anchor - negative), axis=2)
-    loss = tf.maximum(squared_distances - squared_negative_distances + margin, 0.0)
+#     #Calculate the squared differences between the anchor and the positive embedding
+#     squared_distances = tf.reduce_sum(tf.square(anchor - positive))
+#     #Calculate the squared differences between the anchor and the negative embedding
+#     squared_negative_distances = tf.reduce_sum(tf.square(anchor - negative))
+#     #Caluclate the loss value, we want the distance between the anchor and the positive class to be less than
+#     # between the anchor and the negative class by at least the margin value
+#     loss = tf.maximum(squared_distances - squared_negative_distances + margin, 0.0)
+#     return loss
+
+# def triplet_semihard_loss(anchor, positive, negative, margin=1.0):
+#     # Calculate the squared distances
+#     squared_distance_positive = tf.reduce_sum(tf.square(anchor - positive))
+#     squared_distance_negative = tf.reduce_sum(tf.square(anchor - negative))
+    
+#     # Compute the loss with margin
+#     loss = tf.maximum(squared_distance_positive - squared_distance_negative + margin, 0.0)
+    
+#     return loss
+
+def triplet_semihard_loss(y_true, y_pred, margin=1.0):
+    anchor_embedding = y_pred[0]
+    positive_embedding = y_pred[1]
+    negative_embedding = y_pred[2]
+    
+    squared_distance_positive = tf.reduce_sum(tf.square(anchor_embedding - positive_embedding))
+    squared_distance_negative = tf.reduce_sum(tf.square(anchor_embedding - negative_embedding))
+    
+    loss = tf.maximum(squared_distance_positive - squared_distance_negative + margin, 0.0)
+    
     return loss
 
-def triplet_loss_wrapper(y_true, y_pred):
-    # Assuming y_true is not used in this loss function
-    return tf.reduce_mean(triplet_semihard_loss(y_pred[0], y_pred[1], y_pred[2]))
+# def triplet_loss_wrapper(y_true, y_pred):
+#     # Assuming y_true is not used in this loss function
+#     return tf.reduce_mean(triplet_semihard_loss(y_pred[0], y_pred[1], y_pred[2]))
 
-def create_model(model, learning_rate = 0.001):
-    """ 
-    Pass in an empty model, and this function will return a populated model
-    """
-    # Create the basic triplet loss model 
-    # Create the anchor input
-    anchor_input = Input(shape=(512,), name = 'Anchor')
-    positive_input = Input(shape=(512,), name = 'Positive Input')
-    negative_input = Input(shape=(512,), name = 'Negative Input')
+# def triplet_loss_wrapper(y_true, y_pred):
+#     # Assuming y_true is not used in this loss function
+#     return y_pred['loss']
 
-    # Hidden layer shared for all inputs
-    hidden_layer = Dense(1000, activation='relu', name = 'Shared_Hidden_Layer')
+# class TripletLossLayer(Layer):
+#     def __init__(self, margin=1.0, **kwargs):
+#         super(TripletLossLayer, self).__init__(**kwargs)
+#         self.margin = margin
 
-    # Apply the hidden layer to each input
+#     def triplet_semihard_loss(self, anchor, positive, negative):
+#         # Calculate the squared distances
+#         squared_distance_positive = tf.reduce_sum(tf.square(anchor - positive))
+#         squared_distance_negative = tf.reduce_sum(tf.square(anchor - negative))
+        
+#         # Compute the loss with margin
+#         loss = tf.maximum(squared_distance_positive - squared_distance_negative + self.margin, 0.0)
+        
+#         return loss
+
+#     def call(self, inputs):
+#         anchor_embedding, positive_embedding, negative_embedding = inputs
+#         loss = self.triplet_semihard_loss(anchor_embedding, positive_embedding, negative_embedding)
+#         self.add_loss(loss)
+#         return loss
+
+def create_model(model, input_shape = (512,), learning_rate = 0.001, hidden_neurons=500, hidden_activation='relu', name='Shared_Hidden_Layer'):
+    anchor_input = Input(shape=input_shape, name='Anchor')
+    positive_input = Input(shape=input_shape, name='Positive Input')
+    negative_input = Input(shape=input_shape, name='Negative Input')
+
+    hidden_layer = Dense(hidden_neurons, activation=hidden_activation, name=name)
+
     anchor_hidden = hidden_layer(anchor_input)
     positive_hidden = hidden_layer(positive_input)
     negative_hidden = hidden_layer(negative_input)
 
-    # Create the embedding layer
-    embedding_layer = Dense(512, name = 'Embedding_Layer')
+    # batch_norm_layer = BatchNormalization(name='Batch_Normalization')  # Add batch normalization layer
+    # anchor_hidden = batch_norm_layer(anchor_hidden)
+    # positive_hidden = batch_norm_layer(positive_hidden)
+    # negative_hidden = batch_norm_layer(negative_hidden)
 
-    # Encode the anchor, positive, and negative hidden inputs
+    embedding_layer = Dense(512, name='Embedding_Layer')
+
     anchor_embedding = embedding_layer(anchor_hidden)
     positive_embedding = embedding_layer(positive_hidden)
     negative_embedding = embedding_layer(negative_hidden)
 
-    # Wrap the triplet loss
-    loss = triplet_loss_wrapper(None, [anchor_embedding, positive_embedding, negative_embedding])
-
-    # Calculate the triplet loss
-    model_output = {'loss': triplet_semihard_loss(anchor_embedding, positive_embedding, negative_embedding)}
-
-    # Create the model
-    model = Model(inputs=[anchor_input, positive_input, negative_input], outputs=model_output)
-    model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=learning_rate), loss=triplet_loss_wrapper)
+    model = Model(inputs=[anchor_input, positive_input, negative_input], outputs=[anchor_embedding, positive_embedding, negative_embedding])
+    model.compile(optimizer=tf.keras.optimizers.Adam(), loss=triplet_semihard_loss)
 
     return model
 
+# def create_model(model, learning_rate = 0.001, hidden_neurons=500, hidden_activation='relu', name = 'Shared_Hidden_Layer'):
+#     """ 
+#     Pass in an empty model, and this function will return a populated model
+#     """
+#     # Create the basic triplet loss model 
+#     # Create the anchor input
+#     anchor_input = Input(shape=(512,), name = 'Anchor')
+#     positive_input = Input(shape=(512,), name = 'Positive Input')
+#     negative_input = Input(shape=(512,), name = 'Negative Input')
+
+#     # Hidden layer shared for all inputs
+#     hidden_layer = Dense(hidden_neurons, activation=hidden_activation, name = name)
+
+#     # Apply the hidden layer to each input
+#     anchor_hidden = hidden_layer(anchor_input)
+#     positive_hidden = hidden_layer(positive_input)
+#     negative_hidden = hidden_layer(negative_input)
+    
+#     # batch_norm_layer = BatchNormalization(name='Batch_Normalization')  # Add batch normalization layer
+#     # anchor_hidden = batch_norm_layer(anchor_hidden)
+#     # positive_hidden = batch_norm_layer(positive_hidden)
+#     # negative_hidden = batch_norm_layer(negative_hidden)
+
+#     # Create the embedding layer
+#     embedding_layer = Dense(512, name = 'Embedding_Layer')
+
+#     # Encode the anchor, positive, and negative hidden inputs
+#     anchor_embedding = embedding_layer(anchor_hidden)
+#     positive_embedding = embedding_layer(positive_hidden)
+#     negative_embedding = embedding_layer(negative_hidden)
+
+#     # Calculate the triplet loss
+#     #model_output = {'loss': triplet_semihard_loss(anchor_embedding, positive_embedding, negative_embedding)}
+
+#     triplet_loss_layer = TripletLossLayer(margin=1.0, name='triplet_loss_layer')
+#     loss = triplet_loss_layer([anchor_embedding, positive_embedding, negative_embedding])
+
+#     # Wrap the triplet loss
+#     #loss = triplet_loss_wrapper(None, [anchor_embedding, positive_embedding, negative_embedding])
+#     #loss = triplet_loss_wrapper(None, model_output)
+
+#     # Create the model
+#     # model = Model(inputs=[anchor_input, positive_input, negative_input], outputs=model_output)
+#     # model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=learning_rate), loss=triplet_loss_wrapper)
+#     model = Model(inputs=[anchor_input, positive_input, negative_input], outputs=loss)
+#     model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=learning_rate), loss=None)
+
+#     return model
+
 # Create data generators for training
-def generate_triplets(anchor_indices, positive_indices, negative_indices, batch_size):
+def generate_triplets(anchor_indices, positive_indices, negative_indices, batch_size, training_embeddings):
     while True:
         batch_anchor = np.random.choice(anchor_indices, batch_size)
         batch_positive = np.random.choice(positive_indices, batch_size)
         batch_negative = np.random.choice(negative_indices, batch_size)
           
         yield [training_embeddings[batch_anchor], training_embeddings[batch_positive], training_embeddings[batch_negative]], np.zeros((batch_size,))
+
+
 
 def train_model(model, columnName, dataframe, batch_size = 32, epochs = 5):
   validation_losses = []
@@ -217,24 +309,25 @@ model = None
 train_model_twentyNewsgroup = True
 
 if train_model_twentyNewsgroup:
-    #training_df_20 = pd.read_excel(Data_location, twenty_newsgroupFileName, nrows=500)
-
+    #Either load or recreate training_df_20
+    training_df_20 = None
     file_path = '/remote_home/AML/CSCE_823_Project/Files/20Newsgroup_training_embeddings.npy'
-    # Before processing description and embeddings
+    
+    #Load the necessary database
+    training_df_20 = read_excel_file(Data_location, twenty_newsgroupFileName)
+    # Before processing description and embeddings see if embeddings are saved
     try:
         training_embeddings = np.load(file_path)
         print("Embeddings loaded successfully.")
     except FileNotFoundError:
         print("Embeddings file not found. Recreating embeddings...")
+        training_df_20 = process_description_to_embeddings(training_df_20, 'data')
+        training_embeddings = np.stack(training_df_20['embeddings'])
+        np.save(file_path, training_embeddings)
 
-    training_df_20 = read_excel_file(Data_location, twenty_newsgroupFileName)
-    training_df_20 = process_description_to_embeddings(training_df_20, 'data')
-    training_embeddings = np.stack(training_df_20['embeddings'])
-    np.save(file_path, training_embeddings)
+    training_embeddings = np.squeeze(training_embeddings, axis=1)
 
-
-
-    model = create_model(model, learning_rate = 0.001)
+    model = create_model(model, input_shape = (512,), learning_rate = 0.001, hidden_neurons=1000, hidden_activation='relu', name = 'Shared_Hidden_Layer')
 
     column_names = ['alt.atheism',	'comp.graphics',	'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.hardware',
     	'comp.sys.mac.hardware',	'comp.windows.x',	'misc.forsale',	'rec.autos',	'rec.motorcycles',	
@@ -242,7 +335,7 @@ if train_model_twentyNewsgroup:
         'soc.religion.christian', 'talk.politics.guns',	'talk.politics.mideast',	'talk.politics.misc',	'talk.religion.misc']
 
     batch_size = 32
-    num_epochs = 100 
+    num_epochs = 50
 
     for column_name in column_names:
         # Get the positive and negative indices for the training set
@@ -253,9 +346,10 @@ if train_model_twentyNewsgroup:
         if total_examples % batch_size != 0:
             steps_per_epoch += 1  # Account for the last smaller batch
 
-        # Train the model
-        train_generator = generate_triplets(positive_indices, positive_indices, negative_indices, batch_size)
+
+        train_generator = generate_triplets(positive_indices, positive_indices, negative_indices, batch_size, training_embeddings)
         model.fit(train_generator, steps_per_epoch=steps_per_epoch, epochs=num_epochs)
+        #model.fit([anchor_data, positive_data, negative_data], y=None, batch_size=batch_size, epochs=num_epochs)
 
     model.save(f'{model_path}/{model_name}')
 
@@ -273,8 +367,6 @@ if train_model_Avolve:
 
   column_names = ['cyber', 'innovation', 'acquisition', 'cybersecurity', 'toc', 
   'intelligence', 'python data science', 'digital engineering']
-
-
 
   validation_losses = []
   #model, validation_losses = train_model(model, column_names, training_df, batch_size=16, epochs = 20)
@@ -294,6 +386,8 @@ if train_model_Avolve:
     # Train the model
     train_generator = generate_triplets(positive_indices, positive_indices, negative_indices, batch_size)
     model.fit(train_generator, steps_per_epoch=steps_per_epoch, epochs=num_epochs)
+
+
 
 #   for train_column_name in column_names:
 #     # Get the positive and negative indices for the training set
@@ -328,8 +422,8 @@ if train_model_Avolve:
   model.save(f'{model_path}/{model_name}')  
 
 else:
-  model = load_model(f'{model_path}/{model_name}', custom_objects={'triplet_loss_wrapper': triplet_loss_wrapper})
-
+  #model = load_model(f'{model_path}/{model_name}', custom_objects={'triplet_loss_wrapper': triplet_loss_wrapper})
+  model = load_model(f'{model_path}/{model_name}', custom_objects={'triplet_semihard_loss': triplet_semihard_loss})
 
 validation = True
 if validation:
@@ -364,11 +458,19 @@ if validation:
         num_samples = len(validation_embeddings)
         anchor_embeddings = np.tile(anchor, (num_samples, 1))
 
-        #Get prediction from the model
+        # Get prediction from the model
+        #prediction_0 = model.predict([anchor_embeddings[0], validation_embeddings[0], validation_embeddings[0]])
         prediction = model.predict([anchor_embeddings, validation_embeddings, validation_embeddings])
 
-        # Extract embeddings from the dictionary
-        predicted_values = prediction['loss'].values.numpy()
+        # Extract similarity scores from the prediction
+        #predicted_values = prediction[:, 0]  # Assuming the similarity scores are in the first column
+        # #Get prediction from the model
+        # prediction = model.predict([anchor_embeddings, validation_embeddings, validation_embeddings])
+
+
+        similarity_scores = euclidean_distances(prediction[0], prediction[1])
+        similarity_scores = similarity_scores[0]
+        # # Extract embeddings from the dictionary
 
         val_pos_indices, val_neg_indices = get_positive_negative_indices(column_name, validation_df)
 
@@ -388,19 +490,19 @@ if validation:
         true_labels = []
         predicted_labels = []
 
-        threshold = 1.0
+        threshold = 0.5
 
         # Iterate through the positive indices and classify pairs
         for val_pos_idx in val_pos_indices:
             true_labels.append(1)  # Positive label
-            pos_similarity_score = predicted_values[val_pos_idx]
-            predicted_labels.append(1 if pos_similarity_score >= threshold else 0)
+            pos_similarity_score = similarity_scores[val_pos_idx]
+            predicted_labels.append(1 if pos_similarity_score <= threshold else 0)
 
         # Iterate through the negative indices and classify pairs
         for val_neg_idx in val_neg_indices:
             true_labels.append(0)  # Negative label
-            neg_similarity_score = predicted_values[val_neg_idx]
-            predicted_labels.append(1 if neg_similarity_score >= threshold else 0)
+            neg_similarity_score = similarity_scores[val_neg_idx]
+            predicted_labels.append(1 if neg_similarity_score <= threshold else 0)
 
         # Plot the confusion matrix
         plot_confusion_matrix(true_labels, predicted_labels, normalize=False, figure_name = column_name, save_location=figure_path, validation=validation)
